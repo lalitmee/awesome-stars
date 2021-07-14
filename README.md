@@ -855,6 +855,7 @@
 
 ## Ruby 
 
+- [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [AndrewRadev/dsf.vim](https://github.com/AndrewRadev/dsf.vim) - Delete surrounding function call
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -990,6 +991,7 @@
 
 ## TypeScript 
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
@@ -1068,6 +1070,9 @@
 
 ## Vim script 
 
+- [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
+- [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
+- [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [zhimsel/vim-stay](https://github.com/zhimsel/vim-stay) - Make Vim persist editing state without fuss
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
 - [skanehira/gh.vim](https://github.com/skanehira/gh.vim) - Vim/Neovim plugin for GitHub
