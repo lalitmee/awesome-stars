@@ -256,7 +256,7 @@
 - [opencode18/OpenNews](https://github.com/opencode18/OpenNews) - OpenNews
 - [zulip/zulip.github.io](https://github.com/zulip/zulip.github.io) - Legacy zulip.org website.  No longer used.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
-- [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
+- [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) - Learnable JavaScript
 - [Anna-Assistant/Anna](https://github.com/Anna-Assistant/Anna) - Virtual Assistant on Google Chrome :elephant:
