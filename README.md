@@ -524,6 +524,7 @@
 
 ## Lua 
 
+- [Murtaza-Udaipurwala/gruvqueen](https://github.com/Murtaza-Udaipurwala/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
