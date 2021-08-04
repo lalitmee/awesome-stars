@@ -17,6 +17,7 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
+  - [Fennel](#fennel)
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
@@ -198,6 +199,10 @@
 ## F# # 
 
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
+
+## Fennel 
+
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - Next-generation motion plugin with ahead-of-time (two-stage) labeling of targets, pushing on-screen navigation speed close to the physical limits
 
 ## Go 
 
@@ -524,6 +529,8 @@
 
 ## Lua 
 
+- [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
+- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [Murtaza-Udaipurwala/gruvqueen](https://github.com/Murtaza-Udaipurwala/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
@@ -536,7 +543,6 @@
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - Tabline lua plugin for neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - Next-generation motion plugin with ahead-of-time (two-stage) labeling of targets, pushing on-screen navigation speed close to the physical limits
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
@@ -997,6 +1003,7 @@
 
 ## TypeScript 
 
+- [neoclide/coc-smartf](https://github.com/neoclide/coc-smartf) - Make jump to character easier.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
