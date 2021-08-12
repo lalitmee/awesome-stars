@@ -531,6 +531,10 @@
 
 ## Lua 
 
+- [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - 
+- [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
+- [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
+- [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
 - [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ See latest package versions in your package.json
