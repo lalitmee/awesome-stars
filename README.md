@@ -203,6 +203,7 @@
 ## Fennel 
 
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin with incremental input processing, pushing on-screen navigation speed close to the physical limits
+- [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 
 ## Go 
 
@@ -521,7 +522,7 @@
 
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
-- [htygithub/machine-learning-python](https://github.com/htygithub/machine-learning-python) - 機器學習: Python
+- [htylab/machine-learning-python](https://github.com/htylab/machine-learning-python) - 機器學習: Python
 
 ## Kotlin 
 
@@ -531,6 +532,9 @@
 
 ## Lua 
 
+- [windwp/lsp-fastaction.nvim](https://github.com/windwp/lsp-fastaction.nvim) - lsp codeaction UI for neovim
+- [onsails/vimway-lsp-diag.nvim](https://github.com/onsails/vimway-lsp-diag.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
+- [lucastrvsn/dot](https://github.com/lucastrvsn/dot) - ⚙  all my config files
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - 
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
@@ -614,7 +618,6 @@
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
 - [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [LoricAndre/fzterm.nvim](https://github.com/LoricAndre/fzterm.nvim) - Fuzzy finder plugin for neovim, written in lua
-- [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -1109,6 +1112,7 @@
 
 ## Vim script 
 
+- [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
