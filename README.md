@@ -34,6 +34,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [QML](#qml)
   - [Reason](#reason)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -207,6 +208,7 @@
 
 ## Go 
 
+- [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
@@ -299,6 +301,7 @@
 
 ## JavaScript 
 
+- [suchipi/prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX
@@ -479,7 +482,7 @@
 - [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [ReactTraining/react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -882,6 +885,10 @@
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 
+## QML 
+
+- [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
+
 ## Reason 
 
 - [draftbit/avatar-generator](https://github.com/draftbit/avatar-generator) - Persona Avatar Generator by Draftbit
@@ -1219,7 +1226,7 @@
 - [LucHermitte/vim-clang](https://github.com/LucHermitte/vim-clang) - Module to Interact with libclang (and clang_indexer DB) from Vim.
 - [LucHermitte/local_vimrc](https://github.com/LucHermitte/local_vimrc) - Per project/tree configuration plugins
 - [iamcco/dotfiles](https://github.com/iamcco/dotfiles) - my dotfiles
-- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart:  Use with latest Neovim or Vim 8
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
