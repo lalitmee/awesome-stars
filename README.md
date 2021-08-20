@@ -537,6 +537,8 @@
 
 ## Lua 
 
+- [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
+- [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A soft dark Neovim theme written in lua, with support for lsp, treesitter and a variety of plugins.
 - [lewis6991/spaceless.nvim](https://github.com/lewis6991/spaceless.nvim) - Automatically strip trailing whitespace as you are editing.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - 
@@ -652,7 +654,7 @@
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using fzf in neovim.
 - [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) - A neovim lua plugin to help easily manage multiple terminal windows
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
-- [npxbr/glow.nvim](https://github.com/npxbr/glow.nvim) - A markdown preview directly in your neovim.
+- [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
