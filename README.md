@@ -296,7 +296,7 @@
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 - [charles-wangkai/hackerrank](https://github.com/charles-wangkai/hackerrank) - My HackerRank solutions
 - [uthcode/learntosolveit](https://github.com/uthcode/learntosolveit) - Learn How to Solve a problem using your favorite programming language.
-- [GDGAhmedabad/Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
+- [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [iiitv/algos](https://github.com/iiitv/algos) - Popular Algorithms and Data Structures implemented in popular languages
 - [HARRRYRJ/Home-automation](https://github.com/HARRRYRJ/Home-automation) - Arduino based home automation
 
@@ -363,7 +363,7 @@
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [codemix/fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML to JS/JSON and vise versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback
@@ -537,6 +537,7 @@
 
 ## Lua 
 
+- [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) - uniform icons for nvim
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A soft dark Neovim theme written in lua, with support for lsp, treesitter and a variety of plugins.
@@ -1129,6 +1130,7 @@
 
 ## Vim script 
 
+- [arecarn/vim-fold-cycle](https://github.com/arecarn/vim-fold-cycle) - 
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
