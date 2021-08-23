@@ -568,7 +568,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [nvim-treesitter/nvim-tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs) - Code documentation built with treesitter
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
-- [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) - Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim
+- [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) - 🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [Murtaza-Udaipurwala/gruvqueen](https://github.com/Murtaza-Udaipurwala/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
@@ -653,7 +653,7 @@
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [amirrezaask/fuzzy.nvim](https://github.com/amirrezaask/fuzzy.nvim) - Fuzzy matching for Neovim
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using fzf in neovim.
-- [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) - A neovim lua plugin to help easily manage multiple terminal windows
+- [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
