@@ -685,6 +685,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 
 ## Makefile 
 
@@ -1261,7 +1262,6 @@
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [bdauria/angular-cli.vim](https://github.com/bdauria/angular-cli.vim) - a Vim Plugin for angular-cli
 - [zeis/vim-kolor](https://github.com/zeis/vim-kolor) - Vim color scheme.
 - [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My development setup
