@@ -305,6 +305,7 @@
 
 ## JavaScript 
 
+- [lordgiotto/google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [emasab/shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -530,6 +531,7 @@
 
 ## Jupyter Notebook 
 
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [htylab/machine-learning-python](https://github.com/htylab/machine-learning-python) - 機器學習: Python
