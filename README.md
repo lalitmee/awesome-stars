@@ -1207,6 +1207,7 @@
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
 - [josa42/vim-lightline-coc](https://github.com/josa42/vim-lightline-coc) - 
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
+- [tommcdo/vim-lister](https://github.com/tommcdo/vim-lister) - A collection of commands for manipulating Vim's lists
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [alvan/vim-closetag](https://github.com/alvan/vim-closetag) - Auto close (X)HTML tags
@@ -1338,7 +1339,6 @@
 - [haya14busa/vim-metarepeat](https://github.com/haya14busa/vim-metarepeat) - 
 - [rhysd/accelerated-jk](https://github.com/rhysd/accelerated-jk) - A vim plugin to accelerate up-down moving!
 - [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
-- [tommcdo/vim-lister](https://github.com/tommcdo/vim-lister) - A collection of commands for manipulating Vim's lists
 - [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [danro/rename.vim](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.
