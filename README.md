@@ -212,6 +212,7 @@
 
 ## Go 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
