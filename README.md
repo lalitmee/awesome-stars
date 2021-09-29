@@ -546,6 +546,7 @@
 
 ## Lua 
 
+- [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) - fold go `if err != nil` and show other lines
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
