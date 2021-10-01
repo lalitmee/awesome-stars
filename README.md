@@ -46,6 +46,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
@@ -546,6 +547,8 @@
 
 ## Lua 
 
+- [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) - :nose: A neovim bufferline for people with addictive personalities
+- [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) - fold go `if err != nil` and show other lines
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
 - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua
@@ -712,6 +715,7 @@
 
 ## Others 
 
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
@@ -1146,6 +1150,10 @@
 ## Vala 
 
 - [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
+
+## Vim Snippet 
+
+- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 
 ## Vim script 
 
