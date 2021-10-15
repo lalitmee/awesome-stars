@@ -88,7 +88,7 @@
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [tessel/node-usb](https://github.com/tessel/node-usb) - Improved USB library for Node.js
+- [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
 - [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [florincoin/florincoin](https://github.com/florincoin/florincoin) - Florin
