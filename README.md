@@ -492,7 +492,6 @@
 - [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -749,7 +748,7 @@
 - [zamansky/emacs.dz](https://github.com/zamansky/emacs.dz) - Awesome emacs config files
 - [codewars/codewars.com](https://github.com/codewars/codewars.com) - Issue tracker for Codewars
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [hachesilva/Comment-Snippets](https://github.com/hachesilva/Comment-Snippets) - Sublime Text snippets to create fancy PHP, CSS and HTML comments.
+- [hachesilva/subl-comment-snippets](https://github.com/hachesilva/subl-comment-snippets) - Sublime Text snippets to create fancy PHP, CSS and HTML comments.
 - [open-source-ideas/open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 - [kevinSuttle/learn-vim](https://github.com/kevinSuttle/learn-vim) - A list of resources for learning the Vim editor
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
@@ -1143,6 +1142,7 @@
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm) - A file manager that lets you jump.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
