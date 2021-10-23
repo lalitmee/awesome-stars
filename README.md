@@ -305,6 +305,7 @@
 
 ## JavaScript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [lordgiotto/google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
@@ -643,7 +644,7 @@
 - [norcalli/nvim_utils](https://github.com/norcalli/nvim_utils) - 
 - [tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim) - https://clojuredocs.org examples and notes, instantly under your finger tips
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
-- [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [tjdevries/manillua.nvim](https://github.com/tjdevries/manillua.nvim) - Making your Lua Folds as tidy as a nice Manilla Folder
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
@@ -1125,7 +1126,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [hsbalar/preserver](https://github.com/hsbalar/preserver) - Preserver is desktop notes organiser built on electron, angular2, pouchDB
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository | https://standardnotes.com
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
