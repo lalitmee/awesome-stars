@@ -143,6 +143,7 @@
 
 ## Emacs Lisp 
 
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [emacs-helm/helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [Fuco1/smartparens](https://github.com/Fuco1/smartparens) - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
@@ -341,7 +342,7 @@
 - [IonicaBizau/birthday](https://github.com/IonicaBizau/birthday) - :birthday: Know when a friend's birthday is coming.
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [typicode/react-lodash](https://github.com/typicode/react-lodash) - ⚛️ 🔧 Lodash as React components
@@ -546,6 +547,8 @@
 
 ## Lua 
 
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 One Dark Pro for Neovim with dark and light themes. Completely customisable colors, styles and highlights. Written in Lua
+- [chentau/marks.nvim](https://github.com/chentau/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [quangnguyen30192/cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags) - tags sources for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
@@ -824,6 +827,7 @@
 
 ## Python 
 
+- [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
@@ -962,7 +966,7 @@
 
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
