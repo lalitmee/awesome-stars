@@ -352,7 +352,6 @@
 - [plotly/react-plotly.js](https://github.com/plotly/react-plotly.js) - A plotly.js React component from Plotly 📈
 - [apollographql/react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
-- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [nitin42/react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - A browser developer tool extension to inspect performance of React components.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
@@ -1111,6 +1110,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [simbathesailor/react-infinite-scroll](https://github.com/simbathesailor/react-infinite-scroll) - A  dead simple infinite scroll  (1.3 kb gzipped)  for friends
+- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
