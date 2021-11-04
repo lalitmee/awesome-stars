@@ -549,6 +549,9 @@
 
 ## Lua 
 
+- [rafaelsq/nvim-goc.lua](https://github.com/rafaelsq/nvim-goc.lua) - Go Coverage for Neovim
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
+- [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
 - [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 One Dark Pro for Neovim with dark and light themes. Completely customisable colors, styles and highlights. Written in Lua
 - [chentau/marks.nvim](https://github.com/chentau/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
