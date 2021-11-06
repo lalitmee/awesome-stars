@@ -143,6 +143,8 @@
 
 ## Emacs Lisp 
 
+- [mickeynp/smart-scan](https://github.com/mickeynp/smart-scan) - Jumps between other symbols found at point in Emacs
+- [emacs-lsp/lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) - 
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [emacs-helm/helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
