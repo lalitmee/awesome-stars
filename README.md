@@ -469,7 +469,7 @@
 - [microsoft/vscode-react-sample](https://github.com/microsoft/vscode-react-sample) - React todo demo for Build conference
 - [buckyroberts/React-Redux-Boilerplate](https://github.com/buckyroberts/React-Redux-Boilerplate) - Awesome React / Redux boilerplate and tutorial.
 - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
-- [Sitebase/react-avatar](https://github.com/Sitebase/react-avatar) - Universal avatar makes it possible to fetch/generate an avatar based on the information you have about that user.
+- [ambassify/react-avatar](https://github.com/ambassify/react-avatar) - Universal avatar makes it possible to fetch/generate an avatar based on the information you have about that user.
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [cerebro-iiitv/cerebro-web](https://github.com/cerebro-iiitv/cerebro-web) - Website for Cerebro
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
@@ -1115,7 +1115,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [simbathesailor/react-infinite-scroll](https://github.com/simbathesailor/react-infinite-scroll) - A  dead simple infinite scroll  (1.3 kb gzipped)  for friends
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
