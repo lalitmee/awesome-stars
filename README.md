@@ -1092,6 +1092,7 @@
 
 ## TypeScript 
 
+- [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
