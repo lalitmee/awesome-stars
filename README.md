@@ -609,7 +609,7 @@
 - [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [Murtaza-Udaipurwala/gruvqueen](https://github.com/Murtaza-Udaipurwala/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
-- [kristijanhusak/orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim) - Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
@@ -928,7 +928,7 @@
 - [dvitsios/codesignal-my-solutions](https://github.com/dvitsios/codesignal-my-solutions) - Solutions in Python from CodeSignal problems & Bots
 - [riobard/project-euler](https://github.com/riobard/project-euler) - My solutions to Project Euler in Python
 - [zacharydenton/euler](https://github.com/zacharydenton/euler) - Project Euler solutions in Python, Haskell, Ruby, Rust, and more.
-- [natalie-perret-1986/coding-challenges](https://github.com/natalie-perret-1986/coding-challenges) - My coding challenge solution(s) =]
+- [natalie-o-perret/coding-challenges](https://github.com/natalie-o-perret/coding-challenges) - My coding challenge solution(s) =]
 - [nryoung/algorithms](https://github.com/nryoung/algorithms) - This repository is not maintained
 - [anyaudio/anyaudio-server](https://github.com/anyaudio/anyaudio-server) - :musical_note: Simple server to search youtube and give direct audio download and stream links
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
