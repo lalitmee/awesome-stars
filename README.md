@@ -550,6 +550,8 @@
 
 ## Lua 
 
+- [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
+- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim) - (Teles-)Hopping to the moon.
