@@ -88,7 +88,6 @@
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
 - [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [florincoin/florincoin](https://github.com/florincoin/florincoin) - Florin
@@ -652,7 +651,7 @@
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim (&gt;= 0.5) complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
 - [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim) - a neovim comment and  annotation plugin using coroutine
@@ -1170,6 +1169,7 @@
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [pradel/react-responsive-modal](https://github.com/pradel/react-responsive-modal) - Simple responsive react modal
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm) - A file manager that lets you jump.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
