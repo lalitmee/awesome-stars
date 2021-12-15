@@ -683,7 +683,7 @@
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) - Train yourself with vim motions and make your own train tracks :)
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
-- [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - 🚪 A simple file explorer
+- [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - 🗄️  A simple file explorer
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
