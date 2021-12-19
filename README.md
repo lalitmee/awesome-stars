@@ -1099,6 +1099,7 @@
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [neoclide/coc-smartf](https://github.com/neoclide/coc-smartf) - Make jump to character easier.
@@ -1194,7 +1195,6 @@
 - [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim) - Edit code that's embedded within other code
 - [itmammoth/doorboy.vim](https://github.com/itmammoth/doorboy.vim) - Vim plugin for auto closing brackets ( =&gt; (|) and quotations " =&gt; "|" , and more
 - [myusuf3/numbers.vim](https://github.com/myusuf3/numbers.vim) - numbers.vim is a vim plugin for better line numbers
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 - [arecarn/vim-fold-cycle](https://github.com/arecarn/vim-fold-cycle) - 
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
