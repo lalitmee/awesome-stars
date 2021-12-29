@@ -551,6 +551,8 @@
 
 ## Lua 
 
+- [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
+- [josemarluedke/nvimfiles](https://github.com/josemarluedke/nvimfiles) - Awesome NeoVim files for Go and Javascript development
 - [AllenDang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines for neovim.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
@@ -728,7 +730,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [awesome-streamers/awesome-streamerrc](https://github.com/awesome-streamers/awesome-streamerrc) - Dotfiles for various streamers on Twitch.
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Makefile 
 
