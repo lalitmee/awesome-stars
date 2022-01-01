@@ -896,7 +896,7 @@
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [geigi/cozy](https://github.com/geigi/cozy) - Listen to audio books
+- [geigi/cozy](https://github.com/geigi/cozy) - Listen to audio books on Linux
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
@@ -1420,7 +1420,7 @@
 ## Vue 
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [CyanSalt/todu](https://github.com/CyanSalt/todu) - An awesome, hackable to-do list.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [ragnarlotus/vue-flux](https://github.com/ragnarlotus/vue-flux) - Image slider which comes with 20 cool transitions
