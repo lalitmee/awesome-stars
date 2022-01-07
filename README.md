@@ -551,6 +551,7 @@
 
 ## Lua 
 
+- [ido-nvim/core](https://github.com/ido-nvim/core) - The core of ido-nvim
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features
 - [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) - Yet another light-weight rooter written in Lua
@@ -1204,6 +1205,7 @@
 
 ## Vim script 
 
+- [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim) - Edit code that's embedded within other code
 - [itmammoth/doorboy.vim](https://github.com/itmammoth/doorboy.vim) - Vim plugin for auto closing brackets ( =&gt; (|) and quotations " =&gt; "|" , and more
 - [myusuf3/numbers.vim](https://github.com/myusuf3/numbers.vim) - numbers.vim is a vim plugin for better line numbers
