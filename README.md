@@ -699,7 +699,7 @@
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - 🗄️  A simple file explorer
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 
-- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [amirrezaask/fuzzy.nvim](https://github.com/amirrezaask/fuzzy.nvim) - Fuzzy matching for Neovim
