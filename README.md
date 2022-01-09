@@ -608,7 +608,7 @@
 - [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ All the npm/yarn commands I don't want to type
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline for neovim in lua. Mainly uses unicode symbols for showing info.
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One Dark Theme for Neovim &gt;= 0.5.0 written in lua based on Atom's One Dark UI Theme. Additionally, it comes with 5 color variant styles
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One Dark and Light Theme for Neovim &gt;= 0.5.0 written in lua based on Atom's One Dark UI and One Light UI Theme. Additionally, it comes with 5 color variant styles
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
@@ -900,7 +900,7 @@
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [geigi/cozy](https://github.com/geigi/cozy) - Listen to audio books on Linux
+- [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
