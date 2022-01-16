@@ -551,6 +551,9 @@
 
 ## Lua 
 
+- [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
+- [martinsione/darkplus.nvim](https://github.com/martinsione/darkplus.nvim) - 
+- [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
 - [shift-d/mappy.nvim](https://github.com/shift-d/mappy.nvim) - Simple wrapper around vim.keymap.set
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
