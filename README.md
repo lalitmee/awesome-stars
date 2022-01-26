@@ -1382,7 +1382,7 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [tpope/tpope](https://github.com/tpope/tpope) - tpope's dotfiles. DON'T USE unless you're tpope
+- [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
 - [nelstrom/dotfiles](https://github.com/nelstrom/dotfiles) - My dotfiles. Mainly customisations for Vim and Bash.
