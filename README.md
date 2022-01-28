@@ -551,6 +551,7 @@
 
 ## Lua 
 
+- [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) - CompetiTest.nvim is a Neovim plugin to automate testcases management and checking for Competitive Programming
