@@ -1102,7 +1102,6 @@
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
 - [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
 - [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -1372,6 +1371,7 @@
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
 - [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) - A Vim plugin for TypeScript
+- [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
 - [amacgregor/dot-files](https://github.com/amacgregor/dot-files) - Dotfiles repository
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
