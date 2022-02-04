@@ -1082,7 +1082,7 @@
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [erikdubois/i3-installation-on-latest-linux-mint](https://github.com/erikdubois/i3-installation-on-latest-linux-mint) - 
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - 
+- [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Dockerized)
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [JBakamovic/yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
