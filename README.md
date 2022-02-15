@@ -594,7 +594,7 @@
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
@@ -693,7 +693,6 @@
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [tjdevries/manillua.nvim](https://github.com/tjdevries/manillua.nvim) - Making your Lua Folds as tidy as a nice Manilla Folder
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
-- [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [tzachar/compe-tabnine](https://github.com/tzachar/compe-tabnine) - TabNine source for hrsh7th/nvim-compe
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
