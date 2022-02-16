@@ -550,6 +550,9 @@
 
 ## Lua 
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
+- [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim 0.5.
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua
@@ -737,7 +740,6 @@
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
-- [bpingris/dotfiles](https://github.com/bpingris/dotfiles) - 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
@@ -1063,6 +1065,7 @@
 - [gibfahn/dot](https://github.com/gibfahn/dot) - My dotfiles and setup scripts
 - [ipatch/dotfiles](https://github.com/ipatch/dotfiles) - ❤ ~/.🛠🐈 the daily jam 🍞🥜🍇🍞
 - [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy) - Tmux plugin for Maccy and fzf integration
+- [bpingris/dotfiles](https://github.com/bpingris/dotfiles) - 
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [denysdovhan/one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) - Atom's One Dark and One Light theme for GNOME Terminal
