@@ -550,6 +550,7 @@
 
 ## Lua 
 
+- [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim 0.5.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
@@ -1227,7 +1228,7 @@
 
 ## Vim script 
 
-- [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - I'm going to put there some interesting information about vim (shortcuts, plugins, e.t.c.)
+- [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - Neovim shortcuts, commands, links and configuration.
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim) - Edit code that's embedded within other code
 - [itmammoth/doorboy.vim](https://github.com/itmammoth/doorboy.vim) - Vim plugin for auto closing brackets ( =&gt; (|) and quotations " =&gt; "|" , and more
