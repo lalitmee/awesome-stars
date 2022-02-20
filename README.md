@@ -348,7 +348,7 @@
 - [IonicaBizau/birthday](https://github.com/IonicaBizau/birthday) - :birthday: Know when a friend's birthday is coming.
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [typicode/react-lodash](https://github.com/typicode/react-lodash) - ⚛️ 🔧 Lodash as React components
@@ -662,7 +662,7 @@
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) - 🍍 A NeoVim plugin for managing vim abbreviations.
 - [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) - Integrates vim-bookmarks into telescope.nvim
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - An extension for telescope.nvim that allows you to switch between headings
@@ -717,7 +717,7 @@
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) - Train yourself with vim motions and make your own train tracks :)
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
-- [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - 🗄️  A simple file explorer
+- [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
