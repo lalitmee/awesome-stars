@@ -551,6 +551,9 @@
 
 ## Lua 
 
+- [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) - A simple, minimal highlighter plugin for neovim
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written in lua!
@@ -1233,6 +1236,8 @@
 
 ## Vim script 
 
+- [superDross/ticket.vim](https://github.com/superDross/ticket.vim) - Manges git branch specific vim session files
+- [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - Neovim shortcuts, commands, links and configuration.
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim) - Edit code that's embedded within other code
