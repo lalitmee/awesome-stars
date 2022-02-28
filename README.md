@@ -551,6 +551,7 @@
 
 ## Lua 
 
+- [albingroen/quick.nvim](https://github.com/albingroen/quick.nvim) - A very fast Lua based Neovim configuration that uses coc.nvim for intellisense
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
@@ -1020,6 +1021,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
@@ -1067,6 +1069,7 @@
 
 ## Shell 
 
+- [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
@@ -1237,6 +1240,7 @@
 
 ## Vim script 
 
+- [qxxxb/vim-searchhi](https://github.com/qxxxb/vim-searchhi) - Highlight the current search result differently
 - [superDross/ticket.vim](https://github.com/superDross/ticket.vim) - Manges git branch specific vim session files
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - Neovim shortcuts, commands, links and configuration.
