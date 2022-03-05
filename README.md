@@ -104,6 +104,7 @@
 
 ## CSS 
 
+- [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
 - [vinceliuice/Canta-theme](https://github.com/vinceliuice/Canta-theme) - Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
@@ -311,6 +312,7 @@
 
 ## JavaScript 
 
+- [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [aca/emmet-ls](https://github.com/aca/emmet-ls) - Emmet support based on LSP.
 - [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - Extension for Gnome Shell desktop environment, a highly customizable replacement of the Alt-Tab window and app switchers.
 - [mhyfritz/hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night) - Clean, dark Hyper theme based on the Tokyo Night VS Code theme
@@ -553,6 +555,9 @@
 
 ## Lua 
 
+- [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
+- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession
@@ -786,6 +791,7 @@
 
 ## Others 
 
+- [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu) - 👀
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
