@@ -555,6 +555,7 @@
 
 ## Lua 
 
+- [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - It makes a quickfix list editable in both content and file path.
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
