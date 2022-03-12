@@ -562,6 +562,14 @@
 
 ## Lua 
 
+- [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
+- [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
+- [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
+- [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) - A history implementation that memorizes prompt input for a specific context
+- [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
+- [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
+- [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) - Show desktop notifications for vim.notify calls
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) - a simple plugin to manage workspace directories in neovim
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
@@ -1304,6 +1312,11 @@
 
 ## Vim script 
 
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
+- [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold) - No-BS Python code folding for Vim
+- [scr1pt0r/crease.vim](https://github.com/scr1pt0r/crease.vim) - Easy foldtext customization for [neo]vim.
+- [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
+- [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [Matt-A-Bennett/vim-surround-funk](https://github.com/Matt-A-Bennett/vim-surround-funk) - A Vim plugin to manipulate function calls
 - [Sangdol/mintabline.vim](https://github.com/Sangdol/mintabline.vim) - Minimalist Tabline with tab numbers, icons and Neovim directories
 - [mhinz/vim-janah](https://github.com/mhinz/vim-janah) - Vim colorscheme.
