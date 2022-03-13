@@ -263,6 +263,7 @@
 
 ## HTML 
 
+- [romainl/vim-rnb](https://github.com/romainl/vim-rnb) - RNB, a Vim colorscheme template
 - [primefaces/primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries
 - [dustinlacewell/eyeliner](https://github.com/dustinlacewell/eyeliner) - Makeup for your mode-line
 - [malchata/yall.js](https://github.com/malchata/yall.js) - A fast, flexible, and small SEO-friendly lazy loader.
@@ -562,6 +563,10 @@
 
 ## Lua 
 
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 120 plugins.
+- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
+- [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher for Neovim
+- [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
@@ -823,6 +828,7 @@
 
 ## Others 
 
+- [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [dobbbri/gruvbox-5-stars](https://github.com/dobbbri/gruvbox-5-stars) - 
 - [dobbbri/daily](https://github.com/dobbbri/daily) - 7 Beautiful and famous dark themes with Operator mono font superpowers
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
@@ -1312,6 +1318,9 @@
 
 ## Vim script 
 
+- [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
+- [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
+- [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold) - No-BS Python code folding for Vim
 - [scr1pt0r/crease.vim](https://github.com/scr1pt0r/crease.vim) - Easy foldtext customization for [neo]vim.
