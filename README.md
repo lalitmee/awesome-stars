@@ -563,6 +563,9 @@
 
 ## Lua 
 
+- [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration (requires Neovim nightly)
+- [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - 
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 120 plugins.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher for Neovim
@@ -680,7 +683,7 @@
 - [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [nvim-pack/lsp-fastaction.nvim](https://github.com/nvim-pack/lsp-fastaction.nvim) - lsp codeaction UI for neovim
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
-- [lucastrvsn/dot](https://github.com/lucastrvsn/dot) - 
+- [lucastrvsn/dotfiles](https://github.com/lucastrvsn/dotfiles) - 
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - A "buffer and tab" tabline for neovim
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) - LSP Progress lualine componenet
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
@@ -1216,6 +1219,7 @@
 
 ## TypeScript 
 
+- [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
@@ -1327,7 +1331,7 @@
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [Matt-A-Bennett/vim-surround-funk](https://github.com/Matt-A-Bennett/vim-surround-funk) - A Vim plugin to manipulate function calls
-- [Sangdol/mintabline.vim](https://github.com/Sangdol/mintabline.vim) - Minimalist Tabline with tab numbers, icons and Neovim directories
+- [Sangdol/mintabline.vim](https://github.com/Sangdol/mintabline.vim) - Minimalist Tabline with tab numbers, icons and Neovim terminals
 - [mhinz/vim-janah](https://github.com/mhinz/vim-janah) - Vim colorscheme.
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
