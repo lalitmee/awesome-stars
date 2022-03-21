@@ -315,6 +315,7 @@
 
 ## JavaScript 
 
+- [atareao/battery-status](https://github.com/atareao/battery-status) - 
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar) - 🚀 Gitwar - Compete with Github
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
@@ -563,6 +564,7 @@
 
 ## Lua 
 
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [shift-d/scratch.nvim](https://github.com/shift-d/scratch.nvim) - 
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration (requires Neovim nightly)
@@ -1324,6 +1326,7 @@
 
 ## Vim script 
 
+- [dsummersl/vim-searchconceal](https://github.com/dsummersl/vim-searchconceal) - Hide searches and patterns using vim's conceal feature
 - [dominikduda/vim_current_word](https://github.com/dominikduda/vim_current_word) - Plugin highlighting word under cursor and all of its occurences
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) - :flashlight: Improved incremental searching for Vim
 - [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) - Look up keyword on https://devdocs.io from Vim
