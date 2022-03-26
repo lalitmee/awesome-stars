@@ -565,6 +565,9 @@
 
 ## Lua 
 
+- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed
+- [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
+- [sheodox/projectlaunch.nvim](https://github.com/sheodox/projectlaunch.nvim) - Neovim plugin for launching commands in your projects
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1039,7 +1042,7 @@
 - [metacoin/flo-python-sdk](https://github.com/metacoin/flo-python-sdk) - FLO python SDK
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [cmyr/anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [sugarlabs/browse-activity](https://github.com/sugarlabs/browse-activity) - Sugar activity to browse the internet; WebKit on GTK on Sugar Toolkit
@@ -1339,6 +1342,8 @@
 
 ## Vim script 
 
+- [romainl/vim-qlist](https://github.com/romainl/vim-qlist) - Persist the results of :ilist and related commands via the quickfix list.
+- [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion) - A simple alignment operator for Vim text editor
 - [dsummersl/vim-searchconceal](https://github.com/dsummersl/vim-searchconceal) - Hide searches and patterns using vim's conceal feature
 - [dominikduda/vim_current_word](https://github.com/dominikduda/vim_current_word) - Plugin highlighting word under cursor and all of its occurences
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) - :flashlight: Improved incremental searching for Vim
