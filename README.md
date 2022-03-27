@@ -58,6 +58,7 @@
 
 ## C 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -220,6 +221,8 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
@@ -316,6 +319,9 @@
 
 ## JavaScript 
 
+- [FGRibreau/jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
+- [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
+- [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [atareao/battery-status](https://github.com/atareao/battery-status) - 
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar) - 🚀 Gitwar - Compete with Github
@@ -565,6 +571,11 @@
 
 ## Lua 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim &gt;= 0.5, focused on LSP.
+- [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
+- [David-Kunz/jester](https://github.com/David-Kunz/jester) - A Neovim plugin to easily run and debug Jest tests
+- [daschw/leaf.nvim](https://github.com/daschw/leaf.nvim) - A forest green dark & light colorscheme for Neovim
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [sheodox/projectlaunch.nvim](https://github.com/sheodox/projectlaunch.nvim) - Neovim plugin for launching commands in your projects
@@ -1156,6 +1167,7 @@
 
 ## Shell 
 
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [cstrap/monaco-font](https://github.com/cstrap/monaco-font) - Install `Monaco Font` or other fonts on Linux distro (Ubuntu, CentOS...)
 - [noscript/tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - More scroll, less hassle
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
@@ -1422,7 +1434,7 @@
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [junegunn/dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
-- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim & Neovim
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
