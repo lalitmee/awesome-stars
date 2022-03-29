@@ -222,6 +222,8 @@
 
 ## Go 
 
+- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
@@ -1175,6 +1177,8 @@
 
 ## Shell 
 
+- [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
