@@ -222,6 +222,10 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [owenthereal/gh](https://github.com/owenthereal/gh) - Fast GitHub command line client (deprecated). gh has been merged into https://github.com/github/hub, see https://github.com/github/hub/issues/475 for more info
+- [acarl005/ls-go](https://github.com/acarl005/ls-go) - A more colorful, user-friendly implementation of `ls` written in Go
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -865,6 +869,7 @@
 
 ## Others 
 
+- [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [dobbbri/gruvbox-5-stars](https://github.com/dobbbri/gruvbox-5-stars) - 
 - [dobbbri/daily](https://github.com/dobbbri/daily) - 7 Beautiful and famous dark themes with Operator mono font superpowers
@@ -977,6 +982,7 @@
 
 ## Python 
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [alexandermckay/font-patcher](https://github.com/alexandermckay/font-patcher) - Patching fonts with font forge
@@ -1177,6 +1183,14 @@
 
 ## Shell 
 
+- [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts, packaged for ease of use with shell frameworks, though they aren't required.
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
+- [pkulev/zsh-rustup-completion](https://github.com/pkulev/zsh-rustup-completion) - Rustup completion plugin for oh-my-zsh framework
+- [sudosubin/zsh-github-cli](https://github.com/sudosubin/zsh-github-cli) - Zsh github cli completion plugin.
+- [alexiszamanidis/zsh-git-fzf](https://github.com/alexiszamanidis/zsh-git-fzf) - An interactive ZSH plugin that wraps some git operations for simplicity and productivity. Also, it contains completions and combines the FZF tool to make the operations more convenient.
+- [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
