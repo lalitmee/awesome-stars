@@ -337,7 +337,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [aca/emmet-ls](https://github.com/aca/emmet-ls) - Emmet support based on LSP.
-- [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - Extension for Gnome Shell desktop environment, a highly customizable replacement of the Alt-Tab window and app switchers.
+- [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - Gnome Shell extension, a highly customizable replacement for the Alt-Tab window and app switchers.
 - [mhyfritz/hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night) - Clean, dark Hyper theme based on the Tokyo Night VS Code theme
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
