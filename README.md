@@ -1132,7 +1132,7 @@
 
 ## Rust 
 
-- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: A Neovim autocompletion framework written in Rust
+- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
