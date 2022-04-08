@@ -1197,7 +1197,7 @@
 - [pkulev/zsh-rustup-completion](https://github.com/pkulev/zsh-rustup-completion) - Rustup completion plugin for oh-my-zsh framework
 - [sudosubin/zsh-github-cli](https://github.com/sudosubin/zsh-github-cli) - Zsh github cli completion plugin.
 - [alexiszamanidis/zsh-git-fzf](https://github.com/alexiszamanidis/zsh-git-fzf) - An interactive ZSH plugin that wraps some git operations for simplicity and productivity. Also, it contains completions and combines the FZF tool to make the operations more convenient.
-- [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh
+- [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh (git, kubectl, docker, ...)
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
