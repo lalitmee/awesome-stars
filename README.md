@@ -1285,6 +1285,7 @@
 
 ## TypeScript 
 
+- [pedro757/emmet](https://github.com/pedro757/emmet) - Emmet language server
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [numToStr/listrrr](https://github.com/numToStr/listrrr) - Issue and Project tracker build w/ GraphQl, Apollo & React 🔥. Wrapped with 🐋 Docker.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
