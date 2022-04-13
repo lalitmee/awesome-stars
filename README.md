@@ -254,6 +254,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [hirenchauhan2/wallpaper](https://github.com/hirenchauhan2/wallpaper) - Utility to set desktop wallpaper for Windows, [Mac & Linux WIP!]
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [splash-cli/splash-cli](https://github.com/splash-cli/splash-cli) - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -395,7 +396,6 @@
 - [klaussinani/hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
-- [splash-cli/splash-cli](https://github.com/splash-cli/splash-cli) - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
 - [tuchk4/storybook-readme](https://github.com/tuchk4/storybook-readme) - React Storybook addon to render README files in github style
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -578,6 +578,8 @@
 
 ## Lua 
 
+- [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
+- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) - Project's Root Directory and Documents Indentation detector with project based config loader
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
@@ -989,6 +991,7 @@
 
 ## Python 
 
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
@@ -1616,6 +1619,7 @@
 
 ## VimL 
 
+- [dahu/vim-help](https://github.com/dahu/vim-help) - Easier navigation within Vim help files
 - [haya14busa/vim-metarepeat](https://github.com/haya14busa/vim-metarepeat) - 
 - [rhysd/accelerated-jk](https://github.com/rhysd/accelerated-jk) - A vim plugin to accelerate up-down moving!
 - [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
