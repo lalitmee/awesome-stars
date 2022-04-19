@@ -716,7 +716,7 @@
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
 - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) - uniform icons for neovim
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
-- [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - vscode-like pictograms for neovim lsp completion items
+- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [lewis6991/spaceless.nvim](https://github.com/lewis6991/spaceless.nvim) - Automatically strip trailing whitespace as you are editing.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - 
@@ -1272,7 +1272,7 @@
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## Swift 
