@@ -884,6 +884,7 @@
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu) - 👀
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
+- [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - The best cheatsheet - vim:help
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
@@ -1422,7 +1423,6 @@
 - [qxxxb/vim-searchhi](https://github.com/qxxxb/vim-searchhi) - Highlight the current search result differently
 - [superDross/ticket.vim](https://github.com/superDross/ticket.vim) - Manges git branch specific vim session files
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
-- [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - The best cheatsheet - vim:help
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim) - Edit code that's embedded within other code
 - [itmammoth/doorboy.vim](https://github.com/itmammoth/doorboy.vim) - Vim plugin for auto closing brackets ( =&gt; (|) and quotations " =&gt; "|" , and more
