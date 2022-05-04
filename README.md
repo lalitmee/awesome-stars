@@ -677,7 +677,7 @@
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
 - [shift-d/mappy.nvim](https://github.com/shift-d/mappy.nvim) - Simple wrapper around vim.keymap.set
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux, Xresources and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim and Terminals written in Lua
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [ido-nvim/ido.nvim](https://github.com/ido-nvim/ido.nvim) - The core of ido-nvim
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
