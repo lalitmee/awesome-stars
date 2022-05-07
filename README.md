@@ -50,7 +50,6 @@
   - [Vala](#vala)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
   - [Vue](#vue)
 
 ## Awk 
@@ -133,7 +132,6 @@
 
 - [sgentle/caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Caniuse command line tool
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
-- [gintern/resume](https://github.com/gintern/resume) - 
 
 ## D 
 
@@ -233,7 +231,7 @@
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
@@ -248,7 +246,7 @@
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [code-golf/code-golf](https://github.com/code-golf/code-golf) - A game designed to let you show off your code-fu by solving problems in the least number of characters.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
-- [Harkishen-Singh/Jarvis-personal-assistant](https://github.com/Harkishen-Singh/Jarvis-personal-assistant) - Comfort of a personal assistant for Linux systems. Currently features native google, yahoo, bing searches, weather conditions, videos from youtube and looking up for images as well, all in a very reliable structure and UI.
+- [Harkishen-Singh/Jarvis-personal-assistant](https://github.com/Harkishen-Singh/Jarvis-personal-assistant) - Comfort of a personal assistant for Linux systems. Currently features native google, yahoo, bing searches, weather conditions, videos from youtube and looking up for images as well, all in a very reli
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [pr4k/howto](https://github.com/pr4k/howto) - Terminal client for stack overflow
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -365,7 +363,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+- [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [romainl/ctags-patterns-for-javascript](https://github.com/romainl/ctags-patterns-for-javascript) - Exuberant Ctags Patterns for JavaScript
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -387,7 +385,7 @@
 - [nitin42/react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - A browser developer tool extension to inspect performance of React components.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
+- [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [djadmin/medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
@@ -465,7 +463,7 @@
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [lannonbr/vscode-issue-tracker](https://github.com/lannonbr/vscode-issue-tracker) - A webapp to visualize the issue count of Microsoft/vscode
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
-- [udacity/frontend-nanodegree-resume](https://github.com/udacity/frontend-nanodegree-resume) - This repository is used for one of the projects in Udacity's Front-End Web Developer Nanodegree program. Learn how to become a Front-End Developer today with line-by-line code reviewed projects and get a job with career services!
+- [udacity/frontend-nanodegree-resume](https://github.com/udacity/frontend-nanodegree-resume) - This repository is used for one of the projects in Udacity's Front-End Web Developer Nanodegree program. Learn how to become a Front-End Developer today with line-by-line code reviewed projects and ge
 - [Giveth/giveth-dapp](https://github.com/Giveth/giveth-dapp) - Giveth Dapp for crowdfunding and managing donations on the ethereum blockchain.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
@@ -510,7 +508,7 @@
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [rahatarmanahmed/electron-packager-dummy-wine](https://github.com/rahatarmanahmed/electron-packager-dummy-wine) - Install this to add a dummy wine executable to your path
 - [babel/babel-loader](https://github.com/babel/babel-loader) - 📦 Babel loader for webpack
-- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [notwaldorf/emoji-translate](https://github.com/notwaldorf/emoji-translate) - :books: Translate text to ✨emoji ✨!
 - [babel/babelify](https://github.com/babel/babelify) - Browserify transform for Babel
 - [DenysVuika/electron-react](https://github.com/DenysVuika/electron-react) - Project template for Electron with React support.
@@ -1275,7 +1273,7 @@
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
@@ -1309,7 +1307,7 @@
 - [neoclide/coc-smartf](https://github.com/neoclide/coc-smartf) - Make jump to character easier.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
@@ -1399,6 +1397,7 @@
 
 ## Vim script 
 
+- [dahu/vim-help](https://github.com/dahu/vim-help) - Easier navigation within Vim help files
 - [togglebyte/nvim](https://github.com/togglebyte/nvim) - Neovim setup
 - [romainl/vim-qlist](https://github.com/romainl/vim-qlist) - Persist the results of :ilist and related commands via the quickfix list.
 - [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion) - A simple alignment operator for Vim text editor
@@ -1460,6 +1459,7 @@
 - [Olical/vim-enmasse](https://github.com/Olical/vim-enmasse) - Edit every line in a quickfix list at the same time
 - [pappasam/vim-filetype-formatter](https://github.com/pappasam/vim-filetype-formatter) - Format program files in vim using your favorite command line formatter
 - [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup) - Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous.
+- [haya14busa/vim-metarepeat](https://github.com/haya14busa/vim-metarepeat) - 
 - [google/vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match
 - [romainl/vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
 - [LER0ever/EverVim](https://github.com/LER0ever/EverVim) - A Modern, Powerful & Modular Vim Distribution | Archived, see notice: https://ry.sb/evervim-archive
@@ -1467,6 +1467,7 @@
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
+- [rhysd/accelerated-jk](https://github.com/rhysd/accelerated-jk) - A vim plugin to accelerate up-down moving!
 - [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) - Vim configuration in the 21st century
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
@@ -1489,6 +1490,7 @@
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [neoclide/vim-easygit](https://github.com/neoclide/vim-easygit) - A git wrapper focus on simplity and usability
+- [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
 - [MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
@@ -1511,6 +1513,7 @@
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
+- [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
@@ -1539,9 +1542,11 @@
 - [LucHermitte/lh-cpp](https://github.com/LucHermitte/lh-cpp) - C&C++ ftplugins suite for Vim
 - [LucHermitte/vim-clang](https://github.com/LucHermitte/vim-clang) - Module to Interact with libclang (and clang_indexer DB) from Vim.
 - [LucHermitte/local_vimrc](https://github.com/LucHermitte/local_vimrc) - Per project/tree configuration plugins
+- [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [iamcco/dotfiles](https://github.com/iamcco/dotfiles) - my dotfiles
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+- [danro/rename.vim](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
@@ -1553,6 +1558,8 @@
 - [maksimr/vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify) - vim plugin which formated javascript files by js-beautify
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [vim-scripts/closetag.vim](https://github.com/vim-scripts/closetag.vim) - Functions and mappings to close open HTML/XML tags
+- [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc) - Generate JSDoc to your JavaScript code.
 - [pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
@@ -1560,10 +1567,13 @@
 - [jreybert/vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
+- [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [bdauria/angular-cli.vim](https://github.com/bdauria/angular-cli.vim) - a Vim Plugin for angular-cli
 - [zeis/vim-kolor](https://github.com/zeis/vim-kolor) - Vim color scheme.
+- [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
 - [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object
+- [fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim) - Elegant buffer explorer - takes very little screen space
 - [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
 - [ruanyl/vim-sort-imports](https://github.com/ruanyl/vim-sort-imports) - vim port of import-sort. Sort javascript/typescript imports
@@ -1581,19 +1591,24 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+- [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
+- [astrails/dotvim](https://github.com/astrails/dotvim) - An attempt at The Ultimate Vim Configuration™ with focus on Rails development. DEPRECATED, SEE https://github.com/vitaly/dotvim2
 - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
 - [nelstrom/dotfiles](https://github.com/nelstrom/dotfiles) - My dotfiles. Mainly customisations for Vim and Bash.
 - [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
+- [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [scrooloose/vimfiles](https://github.com/scrooloose/vimfiles) - The ~/.vim directory that we share at work
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
+- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
 - [ervandew/supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
@@ -1602,11 +1617,15 @@
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [twitvim/twitvim](https://github.com/twitvim/twitvim) - Twitter client for Vim
+- [tmhedberg/matchit](https://github.com/tmhedberg/matchit) - extended % matching for HTML, LaTeX, and many other languages
+- [rhysd/open-pdf.vim](https://github.com/rhysd/open-pdf.vim) - Convert pdf file to plain text, cache it and open it quickly in vim using pdftotext.
 - [Remchi/dotfiles](https://github.com/Remchi/dotfiles) - My dotfiles for vim and emacs
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+- [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
@@ -1616,34 +1635,10 @@
 - [JFiscella/LXDE-config](https://github.com/JFiscella/LXDE-config) - my LXDE config
 - [derekwyatt/vim-config](https://github.com/derekwyatt/vim-config) - My Vim configuration
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [kakkoyun/linux.files](https://github.com/kakkoyun/linux.files) - Configuration Files of my System
 - [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) - Awesome vim config for everyone.
 - [r00k/dotfiles](https://github.com/r00k/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails, vim
 - [tao12345666333/vim](https://github.com/tao12345666333/vim) - My Vim configuration more Python, Javascript, Vue.js, Golang and Markdown, will add Haskell, Ruby and C/C++
-
-## VimL 
-
-- [dahu/vim-help](https://github.com/dahu/vim-help) - Easier navigation within Vim help files
-- [haya14busa/vim-metarepeat](https://github.com/haya14busa/vim-metarepeat) - 
-- [rhysd/accelerated-jk](https://github.com/rhysd/accelerated-jk) - A vim plugin to accelerate up-down moving!
-- [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
-- [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
-- [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
-- [danro/rename.vim](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.
-- [vim-scripts/closetag.vim](https://github.com/vim-scripts/closetag.vim) - Functions and mappings to close open HTML/XML tags
-- [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
-- [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
-- [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
-- [fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim) - Elegant buffer explorer - takes very little screen space
-- [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
-- [astrails/dotvim](https://github.com/astrails/dotvim) - An attempt at The Ultimate Vim Configuration™ with focus on Rails development. DEPRECATED, SEE https://github.com/vitaly/dotvim2
-- [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
-- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
-- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
-- [tmhedberg/matchit](https://github.com/tmhedberg/matchit) - extended % matching for HTML, LaTeX, and many other languages
-- [rhysd/open-pdf.vim](https://github.com/rhysd/open-pdf.vim) - Convert pdf file to plain text, cache it and open it quickly in vim using pdftotext.
-- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
-- [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
-- [kakkoyun/linux.files](https://github.com/kakkoyun/linux.files) - Configuration Files of my System
 
 ## Vue 
 
