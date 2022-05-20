@@ -576,6 +576,9 @@
 
 ## Lua 
 
+- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support
+- [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+- [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 - [lewis6991/cleanfold.nvim](https://github.com/lewis6991/cleanfold.nvim) - Minimalist fold text
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Integration  Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) - Evaluate Neovim Lua inside Markdown
@@ -1258,7 +1261,7 @@
 - [shyiko/commacd](https://github.com/shyiko/commacd) - A faster way to move around (Bash 3+/Zsh)
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh.
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 - [derekwyatt/dotfiles](https://github.com/derekwyatt/dotfiles) - Various dotfiles that I need
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
