@@ -106,6 +106,7 @@
 
 ## CSS 
 
+- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free.
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -576,6 +577,9 @@
 
 ## Lua 
 
+- [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
+- [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
+- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
@@ -1089,7 +1093,7 @@
 - [metacoin/flo-python-sdk](https://github.com/metacoin/flo-python-sdk) - FLO python SDK
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [cmyr/anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [sugarlabs/browse-activity](https://github.com/sugarlabs/browse-activity) - Sugar activity to browse the internet; WebKit on GTK on Sugar Toolkit
@@ -1311,6 +1315,7 @@
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
+- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
@@ -1403,7 +1408,6 @@
 ## Vim Snippet 
 
 - [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 
 ## Vim script 
 
