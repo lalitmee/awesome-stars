@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [MoonScript](#moonscript)
 - [Org](#org)
 - [Others](#others)
 - [PHP](#php)
@@ -580,7 +581,6 @@
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, neovim style tabline. Use your nvim tabs as workspace multiplexer.
-- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - neovim notion.so client
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
@@ -890,6 +890,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## MoonScript 
+
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - neovim notion.so client
 
 ## Org 
 
