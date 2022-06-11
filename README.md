@@ -108,7 +108,7 @@
 
 ## CSS 
 
-- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free.
+- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every Style That You Can Imagine.
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -578,6 +578,9 @@
 
 ## Lua 
 
+- [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - cobalt2 theme for neovim in Lua using colorbuddy
+- [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) - neovim plugin for better language auto-detection, powered by tree-sitter
+- [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP rename command based on Neovim's command-preview feature.
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) - 
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) - Nvim cheat sheet implementation
@@ -1224,6 +1227,7 @@
 
 ## Shell 
 
+- [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [zim0369/pretty-kitty](https://github.com/zim0369/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts.
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
