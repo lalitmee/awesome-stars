@@ -578,6 +578,8 @@
 
 ## Lua 
 
+- [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
+- [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) - A Neovim Telescope extension to open your browser bookmarks right from the editor!
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - cobalt2 theme for neovim in Lua using colorbuddy
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) - neovim plugin for better language auto-detection, powered by tree-sitter
