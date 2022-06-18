@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [owenthereal/gh](https://github.com/owenthereal/gh) - Fast GitHub command line client (deprecated). gh has been merged into https://github.com/github/hub, see https://github.com/github/hub/issues/475 for more info
 - [acarl005/ls-go](https://github.com/acarl005/ls-go) - A more colorful, user-friendly implementation of `ls` written in Go
@@ -579,6 +580,8 @@
 
 ## Lua 
 
+- [talha-akram/anvil](https://github.com/talha-akram/anvil) - A highly adaptable Neovim configuration focused on providing a great development experience while being easy to extend and maintain.
+- [katawful/kat.nvim](https://github.com/katawful/kat.nvim) - NeoVim specifc port of kat.vim, a warm blue theme, written in Fennel with Aniseed
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.
