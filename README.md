@@ -225,6 +225,8 @@
 
 ## Go 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [anmitsu/goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 - [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [owenthereal/gh](https://github.com/owenthereal/gh) - Fast GitHub command line client (deprecated). gh has been merged into https://github.com/github/hub, see https://github.com/github/hub/issues/475 for more info
@@ -581,7 +583,11 @@
 
 ## Lua 
 
-- [nullchilly/cp.nvim](https://github.com/nullchilly/cp.nvim) - Competitive programming neovim plugin
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons & Emojis
+- [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) - 
+- [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
+- [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
+- [nullchilly/cpeditor.nvim](https://github.com/nullchilly/cpeditor.nvim) - Competitive programming neovim plugin
 - [Sewdohe/Nvim-Adapt](https://github.com/Sewdohe/Nvim-Adapt) - Adapts your Neovim background to your system's light/dark mode prefrence.
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
@@ -1048,6 +1054,9 @@
 
 ## Python 
 
+- [andrewshadura/git-crecord](https://github.com/andrewshadura/git-crecord) - Git subcommand to interactively select changes to commit or stage
+- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging state-of-the-art optimization techniques.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -1195,6 +1204,8 @@
 
 ## Rust 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
@@ -1415,7 +1426,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [hsbalar/preserver](https://github.com/hsbalar/preserver) - Preserver is desktop notes organiser built on electron, angular2, pouchDB
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and end-to-end encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - [Moved to https://github.com/standardnotes/app] A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 - [urbanogardun/monte-note](https://github.com/urbanogardun/monte-note) - Note taking application with a rich set of editing and management features
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
