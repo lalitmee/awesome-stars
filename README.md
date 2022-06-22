@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
@@ -225,6 +226,8 @@
 
 ## Go 
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [anmitsu/goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 - [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
@@ -583,7 +586,12 @@
 
 ## Lua 
 
-- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons & Emojis
+- [SingularisArt/Death.NeoVim](https://github.com/SingularisArt/Death.NeoVim) - A quick neovim setup.
+- [VonHeikemen/little-wonder](https://github.com/VonHeikemen/little-wonder) - A collection of extensible color schemes with minimal amount of highlighting for Neovim.
+- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - 
+- [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) - Open Neovim help in vertical split if there is enough space
+- [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Bind a bunch of key bindings together.
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) - 
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
