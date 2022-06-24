@@ -30,7 +30,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
-- [NSIS](#nsis)
 - [Org](#org)
 - [Others](#others)
 - [PHP](#php)
@@ -603,7 +602,7 @@
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage temporary buffers
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) - A plugin that adds wiki and diary extension to orgmode filetype
 - [moevis/smartjump.nvim](https://github.com/moevis/smartjump.nvim) - Advanced 'gf' command for neovim
-- [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Actually minimalistic statusline for neovim
+- [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
 - [talha-akram/anvil](https://github.com/talha-akram/anvil) - A highly adaptable Neovim configuration focused on providing a great development experience while being easy to extend and maintain.
 - [katawful/kat.nvim](https://github.com/katawful/kat.nvim) - NeoVim specifc port of kat.vim, a warm blue theme, written in Fennel with Aniseed
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
@@ -691,6 +690,7 @@
 - [NarutoXY/dim.lua](https://github.com/NarutoXY/dim.lua) - Dim unused words in neovim
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) - Statusline + Telescope integration for viewing and interacting with GitHub notifications
 - [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
+- [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) - ⚙️ Just Another Quickrun Plugin for Neovim in Lua
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
@@ -937,10 +937,6 @@
 ## MoonScript 
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - neovim notion.so client
-
-## NSIS 
-
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## Org 
 
@@ -1213,7 +1209,7 @@
 
 ## Rust 
 
-- [xbase-lab/xbase](https://github.com/xbase-lab/xbase) - Xcode Neovim Replacement-ish.
+- [xbase-lab/xbase](https://github.com/xbase-lab/xbase) - xcode neovim replacement-ish.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
@@ -1461,6 +1457,7 @@
 - [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm) - A file manager that lets you jump.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1502,7 +1499,6 @@
 - [Matt-A-Bennett/vim-surround-funk](https://github.com/Matt-A-Bennett/vim-surround-funk) - A Vim plugin to manipulate function calls
 - [Sangdol/mintabline.vim](https://github.com/Sangdol/mintabline.vim) - Minimalist Tabline with tab numbers, icons and Neovim terminals
 - [mhinz/vim-janah](https://github.com/mhinz/vim-janah) - Vim colorscheme.
-- [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [tek256/simple-dark](https://github.com/tek256/simple-dark) - a simple dark grayscale theme
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
