@@ -584,6 +584,7 @@
 
 ## Lua 
 
+- [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) - browse for anything using your choice of method
 - [arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim) - A simple plugin to quickly run a snippet of code without ever leaving neovim
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
 - [pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim) - Yet Another Build System/Code Runner for Neovim, written in lua
@@ -867,7 +868,7 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
 - [norcalli/nvim_utils](https://github.com/norcalli/nvim_utils) - 
-- [tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim) - https://clojuredocs.org examples and notes, instantly under your finger tips
+- [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) - https://clojuredocs.org examples and notes, instantly under your finger tips
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [tjdevries/manillua.nvim](https://github.com/tjdevries/manillua.nvim) - Making your Lua Folds as tidy as a nice Manilla Folder
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
