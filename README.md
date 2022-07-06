@@ -584,6 +584,7 @@
 
 ## Lua 
 
+- [xiyaowong/link-visitor.nvim](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links!
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) - browse for anything using your choice of method
 - [arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim) - A simple plugin to quickly run a snippet of code without ever leaving neovim
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
@@ -635,7 +636,7 @@
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
-- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Moved to https://codeberg.org/esensar/nvim-dev-container
+- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 - [lewis6991/cleanfold.nvim](https://github.com/lewis6991/cleanfold.nvim) - Minimalist fold text
@@ -1322,7 +1323,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for 🪝Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
