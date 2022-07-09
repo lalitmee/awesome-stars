@@ -312,7 +312,7 @@
 
 ## Haskell 
 
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [mbrubeck/compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
@@ -584,6 +584,7 @@
 
 ## Lua 
 
+- [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [xiyaowong/link-visitor.nvim](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links!
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) - browse for anything using your choice of method
 - [arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim) - A simple plugin to quickly run a snippet of code without ever leaving neovim
@@ -1489,6 +1490,7 @@
 
 ## Vim script 
 
+- [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [erietz/vim-terminator](https://github.com/erietz/vim-terminator) - :dagger: Run your code in an output buffer or a vim terminal conveniently
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
