@@ -109,7 +109,7 @@
 
 ## CSS 
 
-- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [eludadev/uibuttons](https://github.com/eludadev/uibuttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -584,6 +584,8 @@
 
 ## Lua 
 
+- [natecraddock/sessions.nvim](https://github.com/natecraddock/sessions.nvim) - a simple session manager plugin
+- [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - Another directory/file explorer for Neovim written in Lua
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autosave/autoload and Telescope support
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
