@@ -109,7 +109,7 @@
 
 ## CSS 
 
-- [eludadev/uibuttons](https://github.com/eludadev/uibuttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [ui-buttons/ui-buttons](https://github.com/ui-buttons/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -584,6 +584,7 @@
 
 ## Lua 
 
+- [andrewferrier/textobj-diagnostic.nvim](https://github.com/andrewferrier/textobj-diagnostic.nvim) - NeoVim text object that finds diagnostics
 - [natecraddock/sessions.nvim](https://github.com/natecraddock/sessions.nvim) - a simple session manager plugin
 - [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - Another directory/file explorer for Neovim written in Lua
