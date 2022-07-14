@@ -109,7 +109,7 @@
 
 ## CSS 
 
-- [ui-buttons/ui-buttons](https://github.com/ui-buttons/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -584,6 +584,8 @@
 
 ## Lua 
 
+- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+- [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [andrewferrier/textobj-diagnostic.nvim](https://github.com/andrewferrier/textobj-diagnostic.nvim) - NeoVim text object that finds diagnostics
 - [natecraddock/sessions.nvim](https://github.com/natecraddock/sessions.nvim) - a simple session manager plugin
 - [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
@@ -959,6 +961,7 @@
 
 ## Others 
 
+- [meliora-theme/theme](https://github.com/meliora-theme/theme) - Made on rainy summer days
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [dobbbri/gruvbox-5-stars](https://github.com/dobbbri/gruvbox-5-stars) - 
