@@ -584,6 +584,7 @@
 
 ## Lua 
 
+- [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for markdown notebook navigation and management
 - [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) - Neovim plugin for Elixir
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
