@@ -584,6 +584,8 @@
 
 ## Lua 
 
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
+- [ldelossa/buffertag](https://github.com/ldelossa/buffertag) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Tools for markdown notebook navigation and management
