@@ -585,6 +585,8 @@
 
 ## Lua 
 
+- [Shatur/neovim-cmake](https://github.com/Shatur/neovim-cmake) - CMake integration for Neovim
+- [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) - 
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
 - [Civitasv/runvim](https://github.com/Civitasv/runvim) - Beautiful, fast, functional Configuration for Neovim.
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
