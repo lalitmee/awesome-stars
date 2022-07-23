@@ -60,6 +60,7 @@
 
 ## C 
 
+- [martinsione/dotfiles](https://github.com/martinsione/dotfiles) - Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize Unix-based systems.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
