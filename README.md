@@ -587,6 +587,9 @@
 
 ## Lua 
 
+- [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
+- [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
+- [heygarrett/.config](https://github.com/heygarrett/.config) - 
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -673,7 +676,7 @@
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) - Toggles relativenumbers when not needed
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆
-- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
@@ -1248,6 +1251,7 @@
 
 ## Rust 
 
+- [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [xbase-lab/xbase](https://github.com/xbase-lab/xbase) - xcode neovim replacement-ish.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
