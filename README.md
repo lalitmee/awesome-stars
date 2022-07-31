@@ -491,6 +491,7 @@
 - [GirlScriptSummerOfCode/Kranti](https://github.com/GirlScriptSummerOfCode/Kranti) - 
 - [pankajladhar/GFontsSpace](https://github.com/pankajladhar/GFontsSpace) - Preview: https://pankajladhar.github.io/GFontsSpace
 - [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
+- [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "React" course
 - [caseywebdev/react-list](https://github.com/caseywebdev/react-list) - :scroll: A versatile infinite scroll React component.
 - [xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support  🖼
 - [lukewduncan/react-timepicker](https://github.com/lukewduncan/react-timepicker) - A React.js timepicker inspired by Google Calendar
@@ -593,7 +594,6 @@
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration in Neovim
 - [mnowotnik/noteflow.nvim](https://github.com/mnowotnik/noteflow.nvim) - Neovim plugin that streamlines taking notes
 - [Shatur/neovim-cmake](https://github.com/Shatur/neovim-cmake) - CMake integration for Neovim
@@ -775,7 +775,7 @@
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
 - [shift-d/mappy.nvim](https://github.com/shift-d/mappy.nvim) - Simple wrapper around vim.keymap.set
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes (Unofficial Community-driven)
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [ido-nvim/ido.nvim](https://github.com/ido-nvim/ido.nvim) - The core of ido-nvim
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
@@ -1034,7 +1034,6 @@
 - [kevinSuttle/learn-vim](https://github.com/kevinSuttle/learn-vim) - A list of resources for learning the Vim editor
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [udacity/ud777-writing-readmes](https://github.com/udacity/ud777-writing-readmes) - Supplemental material for Udacity's "Writing READMEs" course
-- [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "React" course
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
 - [learn-anything/podcasts](https://github.com/learn-anything/podcasts) - Awesome Podcasts
@@ -1313,6 +1312,7 @@
 
 ## Shell 
 
+- [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
 - [zim0369/pretty-kitty](https://github.com/zim0369/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts.
