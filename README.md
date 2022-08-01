@@ -491,7 +491,7 @@
 - [GirlScriptSummerOfCode/Kranti](https://github.com/GirlScriptSummerOfCode/Kranti) - 
 - [pankajladhar/GFontsSpace](https://github.com/pankajladhar/GFontsSpace) - Preview: https://pankajladhar.github.io/GFontsSpace
 - [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
-- [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "React" course
+- [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [caseywebdev/react-list](https://github.com/caseywebdev/react-list) - :scroll: A versatile infinite scroll React component.
 - [xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support  🖼
 - [lukewduncan/react-timepicker](https://github.com/lukewduncan/react-timepicker) - A React.js timepicker inspired by Google Calendar
@@ -588,6 +588,7 @@
 
 ## Lua 
 
+- [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
 - [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
 - [heygarrett/.config](https://github.com/heygarrett/.config) - 
@@ -791,7 +792,6 @@
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
-- [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim) - (Teles-)Hopping to the moon.
 - [rafaelsq/nvim-goc.lua](https://github.com/rafaelsq/nvim-goc.lua) - Go Coverage for Neovim
@@ -980,7 +980,7 @@
 
 ## Org 
 
-- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
 
 ## Others 
 
@@ -994,6 +994,7 @@
 - [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu) - 👀
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [zubrailx/nvim-cheatsheet](https://github.com/zubrailx/nvim-cheatsheet) - The best cheatsheet - vim:help
+- [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
