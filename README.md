@@ -218,6 +218,7 @@
 
 ## Fennel 
 
+- [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
@@ -589,6 +590,18 @@
 
 ## Lua 
 
+- [gaborvecsei/memento.nvim](https://github.com/gaborvecsei/memento.nvim) - A NeoVim plugin which remembers where you've been
+- [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) - Readline motions and deletions in Neovim
+- [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
+- [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
+- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
+- [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
+- [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save
+- [klen/nvim-test](https://github.com/klen/nvim-test) - A Neovim wrapper for running tests
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
+- [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap in Neovim
+- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim.
+- [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
@@ -1049,7 +1062,6 @@
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme](https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme) - 
-- [coderJianXun/Operator-Mono](https://github.com/coderJianXun/Operator-Mono) - Coding Font Operator Mono
 - [vjpr/monaco-bold](https://github.com/vjpr/monaco-bold) - The Monaco font with a bold variant
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -1414,6 +1426,8 @@
 
 ## TypeScript 
 
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
+- [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for ludicrous formatting speed.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pedro757/emmet](https://github.com/pedro757/emmet) - Emmet language server
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
