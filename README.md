@@ -152,6 +152,7 @@
 
 ## Emacs Lisp 
 
+- [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [mickeynp/smart-scan](https://github.com/mickeynp/smart-scan) - Jumps between other symbols found at point in Emacs
 - [emacs-lsp/lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) - 
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -590,6 +591,7 @@
 
 ## Lua 
 
+- [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - A safe require override with niceties
 - [gaborvecsei/memento.nvim](https://github.com/gaborvecsei/memento.nvim) - A NeoVim plugin which remembers where you've been
 - [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) - Readline motions and deletions in Neovim
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
@@ -791,7 +793,7 @@
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
 - [shift-d/mappy.nvim](https://github.com/shift-d/mappy.nvim) - Simple wrapper around vim.keymap.set
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim and Terminals themes
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [ido-nvim/ido.nvim](https://github.com/ido-nvim/ido.nvim) - The core of ido-nvim
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
