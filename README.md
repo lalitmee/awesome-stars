@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) - Command line pomodoro timer
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins.
@@ -341,6 +342,10 @@
 
 ## JavaScript 
 
+- [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
+- [Rafostar/clapper](https://github.com/Rafostar/clapper) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -594,6 +599,7 @@
 
 ## Lua 
 
+- [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - Gruvbox theme for neovim with full 🎄TreeSitter support.
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
 - [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) - 
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
@@ -700,7 +706,7 @@
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) - Toggles relativenumbers when not needed
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆
-- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
+- [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
@@ -1123,6 +1129,7 @@
 
 ## Python 
 
+- [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [eliostvs/tomate-gtk](https://github.com/eliostvs/tomate-gtk) - A Pomodoro timer written in Gtk3 and Python for Linux desktops.
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [andrewshadura/git-crecord](https://github.com/andrewshadura/git-crecord) - Git subcommand to interactively select changes to commit or stage
@@ -1275,6 +1282,8 @@
 
 ## Rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
+- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [shaunsingh/oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) - A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [xbase-lab/xbase](https://github.com/xbase-lab/xbase) - xcode neovim replacement-ish.
@@ -1338,6 +1347,7 @@
 
 ## Shell 
 
+- [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [rcarriga/dotfiles](https://github.com/rcarriga/dotfiles) - Just a simple dotfiles setup
@@ -1543,6 +1553,7 @@
 
 ## Vala 
 
+- [VocalPodcastProject/vocal](https://github.com/VocalPodcastProject/vocal) - A powerful, beautiful, and simple podcast client for the modern free desktop.
 - [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 
 ## Vim Snippet 
