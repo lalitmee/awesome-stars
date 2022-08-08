@@ -601,7 +601,7 @@
 
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - Gruvbox theme for neovim with full 🎄TreeSitter support.
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
-- [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) - 
+- [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) - Pomodoro time tracker for NeoVim written entirely in LUA
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - A safe require override with niceties
 - [gaborvecsei/memento.nvim](https://github.com/gaborvecsei/memento.nvim) - A NeoVim plugin which remembers where you've been
