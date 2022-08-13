@@ -599,6 +599,8 @@
 
 ## Lua 
 
+- [shaun-mathew/Kitty-Neovim-Background-Changer](https://github.com/shaun-mathew/Kitty-Neovim-Background-Changer) - A simple script to change kitty's background colour in response to colorscheme changes
+- [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - [Mirror] Simple window picker for Neovim
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - Gruvbox theme for neovim with full 🎄TreeSitter support.
