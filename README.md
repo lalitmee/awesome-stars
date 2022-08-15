@@ -599,6 +599,8 @@
 
 ## Lua 
 
+- [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
+- [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [shaun-mathew/Kitty-Neovim-Background-Changer](https://github.com/shaun-mathew/Kitty-Neovim-Background-Changer) - A simple script to change kitty's background colour in response to colorscheme changes
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - [Mirror] Simple window picker for Neovim
