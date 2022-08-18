@@ -599,11 +599,15 @@
 
 ## Lua 
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
+- [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
+- [samodostal/image.nvim](https://github.com/samodostal/image.nvim) - 🖼️ Image Viewer as ASCII Art for Neovim written in Lua
+- [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. https://sr.ht/~p00f/nvim-ts-rainbow preferred
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
-- [shaun-mathew/Kitty-Neovim-Background-Changer](https://github.com/shaun-mathew/Kitty-Neovim-Background-Changer) - A simple script to change kitty's background colour in response to colorscheme changes
+- [shaun-mathew/Chameleon.nvim](https://github.com/shaun-mathew/Chameleon.nvim) - A simple script to change kitty's background colour in response to colorscheme changes
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - [Mirror] Simple window picker for Neovim
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
@@ -841,7 +845,7 @@
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - ⚠️ Further development has moved to https://github.com/williamboman/mason.nvim!
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
@@ -1408,7 +1412,7 @@
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [erikdubois/i3-installation-on-latest-linux-mint](https://github.com/erikdubois/i3-installation-on-latest-linux-mint) - 
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Dockerized)
+- [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [JBakamovic/yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
