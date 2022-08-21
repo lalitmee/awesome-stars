@@ -609,7 +609,7 @@
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
-- [shaun-mathew/Chameleon.nvim](https://github.com/shaun-mathew/Chameleon.nvim) - A simple script to change kitty's background colour in response to colorscheme changes
+- [shaun-mathew/Chameleon.nvim](https://github.com/shaun-mathew/Chameleon.nvim) - A plugin to sync Kitty's background colour with your Neovim colorscheme
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - [Mirror] Simple window picker for Neovim
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
