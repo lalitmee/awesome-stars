@@ -599,6 +599,7 @@
 
 ## Lua 
 
+- [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
 - [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints with keymappings for nvim-dap
 - [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) - Neovim plugin to detect and view battery information
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -611,7 +612,7 @@
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [shaun-mathew/Chameleon.nvim](https://github.com/shaun-mathew/Chameleon.nvim) - A plugin to sync Kitty's background colour with your Neovim colorscheme
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
-- [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - [Mirror] Simple window picker for Neovim
+- [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - Simple window picker for Neovim
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - Gruvbox theme for neovim with full 🎄TreeSitter support.
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
