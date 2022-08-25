@@ -50,8 +50,8 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 
 ## Awk 
@@ -326,6 +326,7 @@
 
 ## Java 
 
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [benjiman/java-html-dsl](https://github.com/benjiman/java-html-dsl) - DSL for writing HTML in Java
@@ -599,6 +600,7 @@
 
 ## Lua 
 
+- [weizheheng/nvim-workbench](https://github.com/weizheheng/nvim-workbench) - A workbench plugin for you to write your thoughts down without leaving the project and the editor.
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) - A neovim plugin that replaces default input and select text prompts with nice floating windows
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
@@ -1576,11 +1578,7 @@
 - [VocalPodcastProject/vocal](https://github.com/VocalPodcastProject/vocal) - A powerful, beautiful, and simple podcast client for the modern free desktop.
 - [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 
-## Vim Snippet 
-
-- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-
-## Vim script 
+## Vim Script 
 
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [Konfekt/FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
@@ -1830,6 +1828,10 @@
 - [liangxianzhe/oh-my-vim](https://github.com/liangxianzhe/oh-my-vim) - Awesome vim config for everyone.
 - [r00k/dotfiles](https://github.com/r00k/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails, vim
 - [tao12345666333/vim](https://github.com/tao12345666333/vim) - My Vim configuration more Python, Javascript, Vue.js, Golang and Markdown, will add Haskell, Ruby and C/C++
+
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Vue 
 
