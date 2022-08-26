@@ -600,6 +600,7 @@
 
 ## Lua 
 
+- [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin for Neovim written in Lua.
 - [weizheheng/nvim-workbench](https://github.com/weizheheng/nvim-workbench) - A workbench plugin for you to write your thoughts down without leaving the project and the editor.
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) - A neovim plugin that replaces default input and select text prompts with nice floating windows
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
@@ -1460,6 +1461,7 @@
 
 ## TeX 
 
+- [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
