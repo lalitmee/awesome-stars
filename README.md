@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -600,6 +601,8 @@
 
 ## Lua 
 
+- [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Minimal automatic list continuation for neovim, powered by lua
+- [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) - Simple regex helper
 - [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin for Neovim written in Lua.
 - [weizheheng/nvim-workbench](https://github.com/weizheheng/nvim-workbench) - A workbench plugin for you to write your thoughts down without leaving the project and the editor.
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) - A neovim plugin that replaces default input and select text prompts with nice floating windows
@@ -737,7 +740,7 @@
 - [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
-- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim &gt;= 0.5, focused on LSP.
+- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) - A Neovim plugin to easily run and debug Jest tests
 - [daschw/leaf.nvim](https://github.com/daschw/leaf.nvim) - A forest green dark & light colorscheme for Neovim
@@ -1583,6 +1586,7 @@
 
 ## Vim Script 
 
+- [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [Konfekt/FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
