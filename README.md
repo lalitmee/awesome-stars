@@ -1306,6 +1306,7 @@
 
 ## Rust 
 
+- [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [shaunsingh/oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) - A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
@@ -1471,6 +1472,7 @@
 
 ## TypeScript 
 
+- [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
