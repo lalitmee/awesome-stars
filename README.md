@@ -600,6 +600,7 @@
 
 ## Lua 
 
+- [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) - Neovim plugin providing an attempt to « hack around » the lack of support (in clients & servers) for the type hierarchy LSP protocol.
 - [asbjornhaland/telescope-send-to-harpoon.nvim](https://github.com/asbjornhaland/telescope-send-to-harpoon.nvim) - Custom Telescope action to send selections to Harpoon.
 - [cameronviner/carbon-now-sh.nvim](https://github.com/cameronviner/carbon-now-sh.nvim) - A neovim plugin that enables you to open your selected text in carbon.now.sh
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim
