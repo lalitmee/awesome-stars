@@ -222,7 +222,7 @@
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, precognitive interface for effortless movements and operations spanning the whole editor area
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
@@ -600,6 +600,9 @@
 
 ## Lua 
 
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
+- [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
+- [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) - Neovim plugin for web developers
 - [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) - Neovim plugin providing an attempt to « hack around » the lack of support (in clients & servers) for the type hierarchy LSP protocol.
 - [asbjornhaland/telescope-send-to-harpoon.nvim](https://github.com/asbjornhaland/telescope-send-to-harpoon.nvim) - Custom Telescope action to send selections to Harpoon.
 - [cameronviner/carbon-now-sh.nvim](https://github.com/cameronviner/carbon-now-sh.nvim) - A neovim plugin that enables you to open your selected text in carbon.now.sh
