@@ -222,7 +222,7 @@
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, precognitive interface for effortless movements and operations spanning the whole editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, "precognitive" interface for lightning-fast, effortless movements spanning the whole editor area
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
@@ -235,7 +235,7 @@
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) - Command line pomodoro timer
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [anmitsu/goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
@@ -600,6 +600,8 @@
 
 ## Lua 
 
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
+- [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim) - A Pomodoro timer for Neovim written in Lua
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) - Neovim plugin for web developers
@@ -1044,6 +1046,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
