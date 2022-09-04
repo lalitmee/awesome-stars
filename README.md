@@ -456,7 +456,7 @@
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
 - [jstejada/react-typist](https://github.com/jstejada/react-typist) - Typing animations with React
 - [notadamking/react-typing-animation](https://github.com/notadamking/react-typing-animation) - A fully-featured typing animation in React that supports any valid JSX.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [joe-lz/TodoKit](https://github.com/joe-lz/TodoKit) - TodoKit - A beautiful bug and issue tracking software.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [rockiger/akiee](https://github.com/rockiger/akiee) - A Markdown-based task manager for hackers and people who build stuff.
@@ -600,6 +600,7 @@
 
 ## Lua 
 
+- [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
 - [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim) - A Pomodoro timer for Neovim written in Lua
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
@@ -820,7 +821,7 @@
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written in lua!
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
