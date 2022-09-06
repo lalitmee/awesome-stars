@@ -870,7 +870,7 @@
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - ⚠️ Further development has moved to https://github.com/williamboman/mason.nvim!
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-- [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
+- [noib3/nvim-bufferline](https://github.com/noib3/nvim-bufferline) - :nose: A minimal Neovim bufferline
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) - fold go `if err != nil` and show other lines
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
@@ -1047,6 +1047,7 @@
 
 ## Others 
 
+- [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
