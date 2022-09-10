@@ -602,6 +602,11 @@
 
 ## Lua 
 
+- [cranberry-clockworks/coal.nvim](https://github.com/cranberry-clockworks/coal.nvim) - A dark theme for NeoVim
+- [tzachar/cmp-fuzzy-path](https://github.com/tzachar/cmp-fuzzy-path) - 
+- [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
+- [dmitmel/cmp-cmdline-history](https://github.com/dmitmel/cmp-cmdline-history) - Source for nvim-cmp which reads results from command-line or search histories
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
@@ -1576,7 +1581,7 @@
 - [angular-slider/ngx-slider](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular 6+ based on angularjs-slider
 - [mhartington/nvim-typescript](https://github.com/mhartington/nvim-typescript) - Typescript tooling for Neovim
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
-- [tech-conferences/confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops and more.
+- [tech-conferences/confs.tech](https://github.com/tech-conferences/confs.tech) - Frontend for www.confs.tech
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
