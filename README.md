@@ -602,6 +602,9 @@
 
 ## Lua 
 
+- [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) - 
+- [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) - LSP progress lualine component
+- [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [cranberry-clockworks/coal.nvim](https://github.com/cranberry-clockworks/coal.nvim) - A dark theme for NeoVim
 - [tzachar/cmp-fuzzy-path](https://github.com/tzachar/cmp-fuzzy-path) - 
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
