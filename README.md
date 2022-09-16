@@ -602,6 +602,9 @@
 
 ## Lua 
 
+- [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+- [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Create Color Code in neovim
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [David-Kunz/markid](https://github.com/David-Kunz/markid) - A Neovim extension to highlight same-name identifiers with the same color.
@@ -1399,6 +1402,7 @@
 
 ## Shell 
 
+- [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
