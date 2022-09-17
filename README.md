@@ -191,7 +191,7 @@
 - [AdamNiederer/ng2-mode](https://github.com/AdamNiederer/ng2-mode) - Angular Support for Emacs
 - [alphapapa/org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
 - [emacsorphanage/helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
-- [ralesi/ranger.el](https://github.com/ralesi/ranger.el) - Bringing the goodness of ranger to dired!
+- [punassuming/ranger.el](https://github.com/punassuming/ranger.el) - Bringing the goodness of ranger to dired!
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
 - [TheBB/spacemacs-layers](https://github.com/TheBB/spacemacs-layers) - Miscellaneous layers for Spacemacs
 - [redguardtoo/eacl](https://github.com/redguardtoo/eacl) - eacl - Emacs auto complete lines by grepping project
@@ -1473,7 +1473,7 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
