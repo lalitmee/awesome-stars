@@ -763,7 +763,7 @@
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - Like fzf.vim but for fzy and neovim with Lua API
-- [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration
+- [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration.
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
@@ -822,7 +822,7 @@
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-- [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession
+- [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 - [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
 - [ViRu-ThE-ViRuS/configs](https://github.com/ViRu-ThE-ViRuS/configs) - My developer setup :D
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - Animation statusline, floating window statusline. Use lua + luv make some wind
@@ -1622,6 +1622,8 @@
 
 ## Vim Script 
 
+- [joeytwiddle/sexy_scroller.vim](https://github.com/joeytwiddle/sexy_scroller.vim) - smooth animation of the cursor and the page whenever they move, with easing
+- [luk400/vim-lichess](https://github.com/luk400/vim-lichess) - Play lichess in (neo)vim!
 - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [Konfekt/FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
