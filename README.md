@@ -602,6 +602,7 @@
 
 ## Lua 
 
+- [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 - [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Create Color Code in neovim
@@ -1055,7 +1056,7 @@
 
 ## MoonScript 
 
-- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - neovim notion.so client
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
 
 ## Org 
 
