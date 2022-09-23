@@ -606,6 +606,8 @@
 
 ## Lua 
 
+- [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) - 
+- [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer
 - [tzachar/cmp-tabnine](https://github.com/tzachar/cmp-tabnine) - TabNine plugin for hrsh7th/nvim-cmp
 - [vigoux/azy.nvim](https://github.com/vigoux/azy.nvim) - Simple and fast fuzzy finder for neovim
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
