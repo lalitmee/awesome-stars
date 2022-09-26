@@ -1195,6 +1195,8 @@
 
 ## Python 
 
+- [google/yapf](https://github.com/google/yapf) - A formatter for Python files
+- [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [eliostvs/tomate-gtk](https://github.com/eliostvs/tomate-gtk) - A Pomodoro timer written in Gtk3 and Python for Linux desktops.
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
