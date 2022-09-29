@@ -607,6 +607,8 @@
 
 ## Lua 
 
+- [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
+- [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [nvim-telescope/telescope-cheat.nvim](https://github.com/nvim-telescope/telescope-cheat.nvim) - WIP integration
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [olrtg/nvim-rename-state](https://github.com/olrtg/nvim-rename-state) - Rename the getter and the setter of a state hook in react/solidjs at the same time.
