@@ -258,7 +258,7 @@
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [athul/shelby](https://github.com/athul/shelby) - Shelby is a fast ⚡️ , lightweight ☁️ , minimal✨,  shell prompt written in Go.
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
@@ -357,7 +357,6 @@
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [FGRibreau/jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
 - [omgimanerd/getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal.
@@ -1040,6 +1039,7 @@
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
+- [bpingris/dotfiles](https://github.com/bpingris/dotfiles) - 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
@@ -1455,7 +1455,6 @@
 - [gibfahn/dot](https://github.com/gibfahn/dot) - My dotfiles and setup scripts
 - [ipatch/dotfiles](https://github.com/ipatch/dotfiles) - ❤ ~/.🛠🐈 the daily jam 🍞🥜🍇🍞
 - [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy) - Tmux plugin for Maccy and fzf integration
-- [bpingris/dotfiles](https://github.com/bpingris/dotfiles) - 
 - [instantOS/instantOS](https://github.com/instantOS/instantOS) - instantOS - the out of the Box distro for powerusers
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [denysdovhan/one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) - Atom's One Dark and One Light theme for GNOME Terminal
@@ -1528,6 +1527,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for ludicrous formatting speed.
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
+- [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pedro757/emmet](https://github.com/pedro757/emmet) - Emmet language server for autocompletion in LSP compatible editors
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
