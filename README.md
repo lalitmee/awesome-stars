@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -516,7 +517,7 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [BuildingXwithJS/bxjs-weekly](https://github.com/BuildingXwithJS/bxjs-weekly) - BxJS Weekly news podcast links collection
 - [tvkhoa/react-tippy](https://github.com/tvkhoa/react-tippy) - A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
-- [wwayne/react-tooltip](https://github.com/wwayne/react-tooltip) - react tooltip component
+- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - react tooltip component
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [almmiko/react-router-dynamic-breadcrumbs](https://github.com/almmiko/react-router-dynamic-breadcrumbs) - Breadcrumbs react component for react-router-v4
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -605,6 +606,8 @@
 
 ## Lua 
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
 - [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's native client-server feature to make opening files from within Neovim's terminal emulator without experiencing weird behavior easier and completely automatic.
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
@@ -1199,6 +1202,8 @@
 
 ## Python 
 
+- [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
+- [oxidane/tmuxomatic](https://github.com/oxidane/tmuxomatic) - Intelligent tmux session management
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -1424,6 +1429,12 @@
 
 ## Shell 
 
+- [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - 
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+- [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+- [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
+- [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
+- [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
 - [thuanpham2311/tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - the easy way to switch, when you have ton of ton session
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
