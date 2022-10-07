@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -367,7 +368,6 @@
 - [atareao/battery-status](https://github.com/atareao/battery-status) - 
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar) - 🚀 Gitwar - Compete with Github
-- [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - 📊.  Dynamically generated your StackOverflow status on your GitHub READMEs!
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -609,6 +609,9 @@
 
 ## Lua 
 
+- [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - This neovim plugin creates missing folders on save.
+- [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Just Another Buffer Switcher for Neovim
+- [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
 - [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
@@ -1365,6 +1368,7 @@
 ## Rust 
 
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
@@ -1541,7 +1545,6 @@
 ## TypeScript 
 
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
@@ -1554,6 +1557,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [numToStr/listrrr](https://github.com/numToStr/listrrr) - Issue and Project tracker build w/ GraphQl, Apollo & React 🔥. Wrapped with 🐋 Docker.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
+- [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
