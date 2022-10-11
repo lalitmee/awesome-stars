@@ -65,6 +65,7 @@
 
 ## C 
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
@@ -123,6 +124,7 @@
 
 ## CSS 
 
+- [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
@@ -361,6 +363,7 @@
 
 ## JavaScript 
 
+- [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
@@ -872,7 +875,7 @@
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written in lua!
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
