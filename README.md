@@ -65,6 +65,7 @@
 
 ## C 
 
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -125,7 +126,6 @@
 ## CSS 
 
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
-- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [pineapplegiant/spaceduck-terminal](https://github.com/pineapplegiant/spaceduck-terminal) - 🚀 🦆Spaceduck theme but for terminal!
 - [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
@@ -363,6 +363,7 @@
 
 ## JavaScript 
 
+- [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -617,6 +618,8 @@
 
 ## Lua 
 
+- [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that I use
+- [patrick-motard/dotfiles](https://github.com/patrick-motard/dotfiles) - A keyboard driven tiling desktop environment
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in neovim ✈️
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
@@ -1224,6 +1227,7 @@
 
 ## Python 
 
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [oxidane/tmuxomatic](https://github.com/oxidane/tmuxomatic) - Intelligent tmux session management
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -1383,6 +1387,8 @@
 
 ## Rust 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [fosskers/rs-setwall](https://github.com/fosskers/rs-setwall) - Script for setting wallpapers in Linux window managers.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
@@ -1441,6 +1447,7 @@
 
 ## SCSS 
 
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -1455,6 +1462,9 @@
 
 ## Shell 
 
+- [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
+- [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
+- [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -1546,6 +1556,7 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -1913,7 +1924,6 @@
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
