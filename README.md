@@ -622,6 +622,7 @@
 
 ## Lua 
 
+- [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) - Launcher for Neovim
 - [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) - The easiest way to create previewable commands in Neovim.
 - [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
@@ -730,7 +731,7 @@
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
 - [Civitasv/runvim](https://github.com/Civitasv/runvim) - Beautiful, fast, functional Configuration for Neovim.
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [ldelossa/buffertag](https://github.com/ldelossa/buffertag) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
@@ -1112,6 +1113,7 @@
 
 ## Others 
 
+- [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [iamdevnitesh/nord-wallpapers](https://github.com/iamdevnitesh/nord-wallpapers) - A collection of Nord theme based wallpapers
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
