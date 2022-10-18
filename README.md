@@ -616,7 +616,7 @@
 
 ## Kotlin 
 
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
@@ -641,7 +641,7 @@
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
 - [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
-- [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's native client-server feature to simplify opening files from within Neovim's terminal emulator without experiencing unintentionally nested sessions.
+- [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's native client-server feature to simplify opening files from within Neovim's terminal emulator without unintentionally nesting sessions.
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [nvim-telescope/telescope-cheat.nvim](https://github.com/nvim-telescope/telescope-cheat.nvim) - WIP integration
@@ -927,7 +927,7 @@
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
 - [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Completely customisable colors, styles, highlights and filetype highlights
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights and filetype highlights
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [quangnguyen30192/cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags) - tags sources for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
@@ -1236,6 +1236,9 @@
 
 ## Python 
 
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
+- [linuxmint/blueberry](https://github.com/linuxmint/blueberry) - A Bluetooth configuration tool
 - [kovidgoyal/iv](https://github.com/kovidgoyal/iv) - A simple image browser
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
@@ -1308,7 +1311,7 @@
 - [ugroot/GROOT](https://github.com/ugroot/GROOT) - GROOT: Welcome to my source code, I'm your personal assistant
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
@@ -1475,6 +1478,9 @@
 
 ## Shell 
 
+- [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
+- [raytruong/polybar-cmus](https://github.com/raytruong/polybar-cmus) - /u/WozarZ's cmus script, but I cleaned up issues relating to capturing artist name and string dump when no track is running.
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
@@ -1597,6 +1603,7 @@
 
 ## TypeScript 
 
+- [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
