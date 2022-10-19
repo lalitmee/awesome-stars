@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -366,6 +367,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
@@ -435,7 +437,7 @@
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [malchata/yall.js](https://github.com/malchata/yall.js) - A fast, flexible, and small SEO-friendly lazy loader.
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
-- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [djadmin/medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
 - [dmo60/CoverflowAltTab](https://github.com/dmo60/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell and Cinnamon
@@ -622,6 +624,8 @@
 
 ## Lua 
 
+- [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
+- [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) - Launcher for Neovim
 - [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) - The easiest way to create previewable commands in Neovim.
@@ -1113,7 +1117,6 @@
 
 ## Others 
 
-- [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [iamdevnitesh/nord-wallpapers](https://github.com/iamdevnitesh/nord-wallpapers) - A collection of Nord theme based wallpapers
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
@@ -1481,6 +1484,7 @@
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
 - [raytruong/polybar-cmus](https://github.com/raytruong/polybar-cmus) - /u/WozarZ's cmus script, but I cleaned up issues relating to capturing artist name and string dump when no track is running.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
+- [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
@@ -1501,7 +1505,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
-- [thuanpham2311/tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - the easy way to switch, when you have ton of ton session
+- [thuanOwa/tmux-fzf-session-switch](https://github.com/thuanOwa/tmux-fzf-session-switch) - the easy way to switch, when you have ton of ton session
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
