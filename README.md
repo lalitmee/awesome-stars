@@ -344,6 +344,7 @@
 
 ## Haskell 
 
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [mbrubeck/compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
@@ -367,6 +368,7 @@
 
 ## JavaScript 
 
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
@@ -624,6 +626,7 @@
 
 ## Lua 
 
+- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) - Tabline - core plugin for NvRose
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
