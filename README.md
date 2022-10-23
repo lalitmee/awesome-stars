@@ -626,6 +626,7 @@
 
 ## Lua 
 
+- [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) - nvim port of tabline.vim with Lua
 - [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) - Tabline - core plugin for NvRose
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
