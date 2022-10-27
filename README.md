@@ -1721,7 +1721,7 @@
 - [pradel/react-responsive-modal](https://github.com/pradel/react-responsive-modal) - Simple responsive react modal
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
-- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - :electron: A complete tool for building and publishing Electron applications
+- [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm) - A file manager that lets you jump.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
