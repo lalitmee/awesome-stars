@@ -93,6 +93,7 @@
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [justin-lathrop/c](https://github.com/justin-lathrop/c) - C Programming Projects
 - [laumann/C](https://github.com/laumann/C) - My own library of C programs, created whilst learning C
+- [uthcode/learntosolveit](https://github.com/uthcode/learntosolveit) - Learn How to Solve a problem using your favorite programming language.
 
 ## C# # 
 
@@ -362,13 +363,13 @@
 - [tipsy/j2html](https://github.com/tipsy/j2html) - Java to HTML generator. Enjoy typesafe HTML generation.
 - [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
 - [charles-wangkai/hackerrank](https://github.com/charles-wangkai/hackerrank) - My HackerRank solutions
-- [uthcode/learntosolveit](https://github.com/uthcode/learntosolveit) - Learn How to Solve a problem using your favorite programming language.
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [iiitv/algos](https://github.com/iiitv/algos) - Popular Algorithms and Data Structures implemented in popular languages
 - [HARRRYRJ/Home-automation](https://github.com/HARRRYRJ/Home-automation) - Arduino based home automation
 
 ## JavaScript 
 
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [plurals/pluralize](https://github.com/plurals/pluralize) - Pluralize or singularize any word based on a count
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
@@ -630,6 +631,10 @@
 
 ## Lua 
 
+- [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
+- [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthands for example.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - You can create scratch file easily and use nvim's other goodies.
+- [doums/oterm.nvim](https://github.com/doums/oterm.nvim) - A neovim plugin to open terminal quickly and nicely.
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
 - [NarutoXY/silicon.lua](https://github.com/NarutoXY/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
