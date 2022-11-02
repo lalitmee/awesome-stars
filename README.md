@@ -72,7 +72,7 @@
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
-- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [MDeiml/tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown) - A markdown grammar for tree-sitter
 - [Rafostar/clapper](https://github.com/Rafostar/clapper) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 - [martinsione/dotfiles](https://github.com/martinsione/dotfiles) - Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize Unix-based systems.
@@ -631,9 +631,13 @@
 
 ## Lua 
 
+- [hood/popui.nvim](https://github.com/hood/popui.nvim) - NeoVim UI sweetness.
+- [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
+- [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+- [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
 - [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthands for example.
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - You can create scratch file easily and use nvim's other goodies.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.
 - [doums/oterm.nvim](https://github.com/doums/oterm.nvim) - A neovim plugin to open terminal quickly and nicely.
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
 - [NarutoXY/silicon.lua](https://github.com/NarutoXY/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
@@ -645,7 +649,7 @@
 - [molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim) - Neovim plugin that provides snippets for the LuaSnip plugin.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) - nvim port of tabline.vim with Lua
-- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) - Tabline - core plugin for NvRose
+- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) - NvRose tabline
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
@@ -1531,7 +1535,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
-- [thuanOwa/tmux-fzf-session-switch](https://github.com/thuanOwa/tmux-fzf-session-switch) - the easy way to switch, when you have ton of ton session
+- [thuanOwa/tmux-fzf-session-switch](https://github.com/thuanOwa/tmux-fzf-session-switch) - Easy way to switch, when you have a ton of ton sessions.
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -1755,6 +1759,7 @@
 
 ## Vim Script 
 
+- [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
