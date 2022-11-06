@@ -631,6 +631,8 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
+- [ericpubu/lsp_codelens_extensions.nvim](https://github.com/ericpubu/lsp_codelens_extensions.nvim) - Adds client side code for codelenses commands not in the lsp servers
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
