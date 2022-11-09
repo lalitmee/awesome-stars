@@ -280,7 +280,7 @@
 - [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
@@ -1368,7 +1368,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [jbrooksuk/Sublime-Evaluate](https://github.com/jbrooksuk/Sublime-Evaluate) - Selection evaluation in Sublime Text
-- [gordio/ToggleWords](https://github.com/gordio/ToggleWords) - Sublime Text 3 Plugin - Toggle words on hotkey
+- [gordio/ToggleWords](https://github.com/gordio/ToggleWords) - Sublime Text 4 Plugin - Toggle words on hotkey
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [aviaryan/SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) - 📝 Make Sublime Text your favorite note taking/journal application
 - [ArionMiles/MIS-Bot](https://github.com/ArionMiles/MIS-Bot) - Telegram bot to pull attendance from SJCET website, plus more features like bunk calculator, test reports, etc. https://mis-bot.readthedocs.io/
@@ -1865,7 +1865,7 @@
 - [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
-- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark theme for classic Vim & modern Neovim
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for classic Vim & modern Neovim
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
