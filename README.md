@@ -630,6 +630,9 @@
 
 ## Lua 
 
+- [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) - Nvim material icon
+- [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) - A map to your filesystem
+- [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [ericpubu/lsp_codelens_extensions.nvim](https://github.com/ericpubu/lsp_codelens_extensions.nvim) - Adds client side code for codelenses commands not in the lsp servers
