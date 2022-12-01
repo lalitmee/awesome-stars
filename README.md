@@ -198,7 +198,7 @@
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [yuya373/emacs-slack](https://github.com/yuya373/emacs-slack) - slack client for emacs
-- [luxbock/evil-cleverparens](https://github.com/luxbock/evil-cleverparens) - Evil normal-state minor-mode for editing lisp-like languages. Work in progress.
+- [emacs-evil/evil-cleverparens](https://github.com/emacs-evil/evil-cleverparens) - Evil normal-state minor-mode for editing lisp-like languages. Work in progress.
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
 - [cyrus-and/zoom](https://github.com/cyrus-and/zoom) - Fixed and automatic balanced window layout for Emacs
@@ -631,6 +631,7 @@
 
 ## Lua 
 
+- [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar for Neovim
 - [otavioschwanck/tmux-awesome-manager.nvim](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) - TMUX Commands manager / runner for Neovim.
 - [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) - It's not because we use netrw that we can’t have nice things!
@@ -810,7 +811,7 @@
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin for make golang development easiest
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [VonHeikemen/little-wonder](https://github.com/VonHeikemen/little-wonder) - A collection of extensible color schemes with minimal amount of highlighting for Neovim.
-- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - Onto-Map your terminal buffers to windows.
+- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - We should run terminal stuff in terminal buffer. -- NW
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) - Open Neovim help in vertical split if there is enough space
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
@@ -882,7 +883,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
-- [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - Zoom-in Like a Boss, How? Layout-Preserving Zoomer weighing in 🪶
+- [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - Zoom-in your working window when so many splits hanging there.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux split resizing and navigation. Think about splits in terms of "up/down/left/right".
@@ -1663,10 +1664,11 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
-- [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for ludicrous formatting speed.
