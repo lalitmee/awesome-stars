@@ -1300,6 +1300,7 @@
 
 ## Python 
 
+- [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [linuxmint/blueberry](https://github.com/linuxmint/blueberry) - A Bluetooth configuration tool
@@ -1423,7 +1424,7 @@
 - [anyaudio/anyaudio-server](https://github.com/anyaudio/anyaudio-server) - :musical_note: Simple server to search youtube and give direct audio download and stream links
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 
