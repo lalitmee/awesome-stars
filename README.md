@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search neovim plugins and online :help via Alfred
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [plurals/pluralize](https://github.com/plurals/pluralize) - Pluralize or singularize any word based on a count
@@ -632,6 +633,7 @@
 
 ## Lua 
 
+- [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) - 
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
@@ -1302,6 +1304,7 @@
 
 ## Python 
 
+- [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
