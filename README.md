@@ -244,6 +244,7 @@
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire, now in Neovim
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
+- [shaunsingh/oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) - A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
@@ -634,6 +635,7 @@
 
 ## Lua 
 
+- [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) - Some semi-util useless plugins put together
 - [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) - Neovim plugin for improved jumplist navigation
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
@@ -1487,7 +1489,6 @@
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
-- [shaunsingh/oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) - A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [xbase-lab/xbase](https://github.com/xbase-lab/xbase) - Develop Apple software products within your favorite editor.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
