@@ -636,6 +636,7 @@
 
 ## Lua 
 
+- [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
 - [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) - Some semi-util useless plugins put together
 - [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) - Neovim plugin for improved jumplist navigation
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
@@ -1801,6 +1802,7 @@
 
 ## Vim Script 
 
+- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How themes should be.
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
