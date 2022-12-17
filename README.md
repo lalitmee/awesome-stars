@@ -212,7 +212,7 @@
 - [alphapapa/org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
 - [emacsorphanage/helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [punassuming/ranger.el](https://github.com/punassuming/ranger.el) - Bringing the goodness of ranger to dired!
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [TheBB/spacemacs-layers](https://github.com/TheBB/spacemacs-layers) - Miscellaneous layers for Spacemacs
 - [redguardtoo/eacl](https://github.com/redguardtoo/eacl) - eacl - Emacs auto complete lines by grepping project
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
@@ -636,6 +636,9 @@
 
 ## Lua 
 
+- [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
+- [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 - [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) - Neovim plugin that allows highlighting the whole area between matching delimiters ('{}' '[]' '()' '&lt;&gt;')
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
