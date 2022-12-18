@@ -1487,6 +1487,7 @@
 
 ## Rust 
 
+- [Lyude/neovim-gtk](https://github.com/Lyude/neovim-gtk) - gtk ui for neovim
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
