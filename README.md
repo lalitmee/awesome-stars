@@ -548,7 +548,7 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [BuildingXwithJS/bxjs-weekly](https://github.com/BuildingXwithJS/bxjs-weekly) - BxJS Weekly news podcast links collection
 - [tvkhoa/react-tippy](https://github.com/tvkhoa/react-tippy) - A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
-- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - react tooltip component
+- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [almmiko/react-router-dynamic-breadcrumbs](https://github.com/almmiko/react-router-dynamic-breadcrumbs) - Breadcrumbs react component for react-router-v4
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
