@@ -637,6 +637,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of a dozen new text objects for Neovim.
 - [Mateiadrielrafael/scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim) - Create abbreviations with ease
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) - nvim-dap adapter for vscode-js-debug
