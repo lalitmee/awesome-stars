@@ -637,6 +637,8 @@
 
 ## Lua 
 
+- [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
+- [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of a dozen new text objects for Neovim.
 - [Mateiadrielrafael/scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim) - Create abbreviations with ease
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim
@@ -926,7 +928,7 @@
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
-- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and multiplexer :sparkles:
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer :sparkles:
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) - A history implementation that memorizes prompt input for a specific context
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
@@ -1406,7 +1408,7 @@
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup) - Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -1699,7 +1701,7 @@
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for ludicrous formatting speed.
