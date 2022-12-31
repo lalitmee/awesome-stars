@@ -637,6 +637,8 @@
 
 ## Lua 
 
+- [pluffie/neoproj](https://github.com/pluffie/neoproj) - 🔥 Small yet powerful project manager for Neovim
+- [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Declarative keymappings configuration using cascading trees
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of a dozen new text objects for Neovim.
@@ -1408,7 +1410,7 @@
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup) - Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
