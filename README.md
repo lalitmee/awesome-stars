@@ -637,6 +637,9 @@
 
 ## Lua 
 
+- [oncomouse/czs.nvim](https://github.com/oncomouse/czs.nvim) - Proper search display for statuslines and cmdheight=0 in Neovim
+- [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
+- [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection for Neovim written in Lua
 - [pluffie/neoproj](https://github.com/pluffie/neoproj) - 🔥 Small yet powerful project manager for Neovim
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Declarative keymappings configuration using cascading trees
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
