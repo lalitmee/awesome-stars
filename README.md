@@ -810,7 +810,7 @@
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
 - [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
-- [heygarrett/.config](https://github.com/heygarrett/.config) - 
+- [heygarrett/.config](https://github.com/heygarrett/.config) - My configuration files for the dev tools I use
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -1352,7 +1352,7 @@
 - [andrewshadura/git-crecord](https://github.com/andrewshadura/git-crecord) - Git subcommand to interactively select changes to commit or stage
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - 🚀 Plug and play modules to boost the performances of AI systems 🚀
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to boost the performances of your AI systems 🚀
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
