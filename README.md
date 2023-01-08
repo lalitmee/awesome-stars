@@ -126,7 +126,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [peeyushy95/Project-Euler](https://github.com/peeyushy95/Project-Euler) - ProjectEuler+ Solution
 - [MaskRay/HackerRank](https://github.com/MaskRay/HackerRank) - My solutions to the challenges on HackerRank
-- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
 ## CSS 
 
