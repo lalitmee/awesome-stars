@@ -638,6 +638,7 @@
 
 ## Lua 
 
+- [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
 - [oncomouse/czs.nvim](https://github.com/oncomouse/czs.nvim) - Proper search display for statuslines and cmdheight=0 in Neovim
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection for Neovim written in Lua
@@ -685,12 +686,12 @@
 - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
-- [ericpubu/lsp_codelens_extensions.nvim](https://github.com/ericpubu/lsp_codelens_extensions.nvim) - Adds client side code for codelenses commands not in the lsp servers
+- [E-ricus/lsp_codelens_extensions.nvim](https://github.com/E-ricus/lsp_codelens_extensions.nvim) - Adds client side code for codelenses commands not in the lsp servers
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
 - [AbdelrahmanDwedar/awesome-nvim-colorschemes](https://github.com/AbdelrahmanDwedar/awesome-nvim-colorschemes) - A collection of the best NeoVim colorschemes with a one setupto set the colorscheme & style & even more!
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) - NeoVim UI sweetness.
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
