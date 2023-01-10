@@ -638,6 +638,7 @@
 
 ## Lua 
 
+- [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim) - Live reload local development servers inside of neovim
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
 - [oncomouse/czs.nvim](https://github.com/oncomouse/czs.nvim) - Proper search display for statuslines and cmdheight=0 in Neovim
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
@@ -1018,7 +1019,7 @@
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
 - [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights and filetype highlights
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights, filetype highlights and LSP semantic tokens
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [quangnguyen30192/cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags) - tags sources for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
