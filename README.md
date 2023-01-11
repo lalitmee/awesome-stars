@@ -638,6 +638,9 @@
 
 ## Lua 
 
+- [s1n7ax/nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace) - Really simple plugin to search and replace multiple files
+- [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - Enhance the usage of macros in Neovim.
+- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin for neovim with presets and click handlers
 - [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim) - Live reload local development servers inside of neovim
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
 - [oncomouse/czs.nvim](https://github.com/oncomouse/czs.nvim) - Proper search display for statuslines and cmdheight=0 in Neovim
@@ -1208,7 +1211,7 @@
 
 - [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
 - [GianCastle/FiraMonaco](https://github.com/GianCastle/FiraMonaco) - Monaco Font with Firacode ligatures and patched for Powerline 📝
-- [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - Just a script which allows to use fzf with ueberzug
+- [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - 
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [iamdevnitesh/nord-wallpapers](https://github.com/iamdevnitesh/nord-wallpapers) - A collection of Nord theme based wallpapers
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
