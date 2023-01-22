@@ -642,6 +642,9 @@
 
 ## Lua 
 
+- [JoosepAlviste/palenightfall.nvim](https://github.com/JoosepAlviste/palenightfall.nvim) - 🌑 Neovim theme inspired by material palenight.
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Allowing your to edit your command in the terminal just like any other buffers.
+- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -727,7 +730,7 @@
 - [molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim) - Neovim plugin that provides snippets for the LuaSnip plugin.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) - nvim port of tabline.vim with Lua
-- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) - NvRose tabline
+- [NvRose/tabline](https://github.com/NvRose/tabline) - NvRose tabline
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
