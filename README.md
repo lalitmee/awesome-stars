@@ -107,6 +107,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
@@ -179,6 +180,8 @@
 
 ## Emacs Lisp 
 
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+- [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [tek256/simple-dark](https://github.com/tek256/simple-dark) - a simple dark grayscale theme
 - [mickeynp/smart-scan](https://github.com/mickeynp/smart-scan) - Jumps between other symbols found at point in Emacs
@@ -649,6 +652,7 @@
 
 ## Lua 
 
+- [s1n7ax/dotnvim](https://github.com/s1n7ax/dotnvim) - Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
 - [davidsierradz/cmp-conventionalcommits](https://github.com/davidsierradz/cmp-conventionalcommits) - (WIP) nvim-cmp source for autocompleting git commits with conventional commits types and lerna packages as scope
@@ -1098,7 +1102,6 @@
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) - 🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim, without any setup
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
-- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [murtaza-u/gruvqueen](https://github.com/murtaza-u/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
@@ -1365,6 +1368,7 @@
 
 ## Python 
 
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
@@ -1537,6 +1541,9 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [Vlamonster/maze_solver_rust](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
@@ -1572,6 +1579,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
