@@ -256,13 +256,14 @@
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 
 ## Go 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [sachaos/todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
@@ -652,6 +653,18 @@
 
 ## Lua 
 
+- [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) - Neovim plugin to flash cursor when jumps or moves between windows.
+- [nyngwang/NeoClear.lua](https://github.com/nyngwang/NeoClear.lua) - save you from the "what the hell?" moment
+- [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) - Well... I will fix this line later
+- [nyngwang/cmp-codeium](https://github.com/nyngwang/cmp-codeium) - 
+- [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
+- [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) - Layout preserving buffer deletion.
+- [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
+- [LoricAndre/OneTerm.nvim](https://github.com/LoricAndre/OneTerm.nvim) - One terminal plugin to rule them all ! (eventually)
+- [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) - A neovim plugin to manage terminal buffers
+- [s1n7ax/nvim-react](https://github.com/s1n7ax/nvim-react) - Reactive UI framework for neovim
+- [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
+- [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [s1n7ax/dotnvim](https://github.com/s1n7ax/dotnvim) - Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
@@ -881,7 +894,7 @@
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin for make golang development easiest
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [VonHeikemen/little-wonder](https://github.com/VonHeikemen/little-wonder) - A collection of extensible color schemes with minimal amount of highlighting for Neovim.
-- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can assign a terminal-buffer for each buffer.
+- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) - Open Neovim help in vertical split if there is enough space
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
@@ -1368,6 +1381,8 @@
 
 ## Python 
 
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
+- [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
@@ -1883,6 +1898,10 @@
 
 ## Vim Script 
 
+- [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
+- [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
+- [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+- [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [smzm/hydrovim](https://github.com/smzm/hydrovim) - ➡️ Run python code inside Neovim
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
@@ -1977,7 +1996,7 @@
 - [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
-- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object) - :point_right: Target text *after* the designated characters
 - [junegunn/vim-journal](https://github.com/junegunn/vim-journal) - :memo:
 - [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
