@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
@@ -667,6 +668,13 @@
 
 ## Lua 
 
+- [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) - Paragraph support for neoscroll
+- [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 📌 the no-nonsense session manager
+- [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) - 
+- [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+- [jcdickinson/wpm.nvim](https://github.com/jcdickinson/wpm.nvim) - A quick and dirty WPM calculator for your UI needs
+- [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - ☕ Dead simple plugin to center the currently focused buffer to the middle of the screen.
+- [tsakirist/telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim) - Telescope extension that provides handy functionality about plugins installed via lazy.nvim
 - [coinator/gv-plus.nvim](https://github.com/coinator/gv-plus.nvim) - All previous
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) - Neovim plugin to flash cursor when jumps or moves between windows.
 - [nyngwang/NeoClear.lua](https://github.com/nyngwang/NeoClear.lua) - save you from the "what the hell?" moment
@@ -1397,6 +1405,7 @@
 
 ## Python 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [blueman-project/blueman](https://github.com/blueman-project/blueman) - Blueman is a GTK+ Bluetooth Manager
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
@@ -1550,6 +1559,7 @@
 
 ## Ruby 
 
+- [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 - [schasse/tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
 - [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
@@ -1656,6 +1666,10 @@
 
 ## Shell 
 
+- [seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
+- [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
+- [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
+- [dracula/tmux](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
