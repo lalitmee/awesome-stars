@@ -67,6 +67,7 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -136,6 +137,7 @@
 
 ## CSS 
 
+- [rose-pine/dark-reader](https://github.com/rose-pine/dark-reader) - Soho vibes for Dark Reader
 - [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -350,6 +352,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [romainl/vim-rnb](https://github.com/romainl/vim-rnb) - RNB, a Vim colorscheme template
 - [primefaces/primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries
 - [dustinlacewell/eyeliner](https://github.com/dustinlacewell/eyeliner) - Makeup for your mode-line
@@ -403,6 +406,8 @@
 
 ## JavaScript 
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [cobcobs/duckduckgo](https://github.com/cobcobs/duckduckgo) - Soho vibes for DuckDuckGo
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
@@ -1005,7 +1010,7 @@
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
-- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer :sparkles:
+- [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) - A history implementation that memorizes prompt input for a specific context
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
@@ -1278,6 +1283,9 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [rose-pine/firefox](https://github.com/rose-pine/firefox) - Soho vibes for Firefox
+- [rose-pine/wallpapers](https://github.com/rose-pine/wallpapers) - Soho vibes for Wallpapers
 - [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
 - [GianCastle/FiraMonaco](https://github.com/GianCastle/FiraMonaco) - Monaco Font with Firacode ligatures and patched for Powerline 📝
 - [seebye/fzf-ueberzogen](https://github.com/seebye/fzf-ueberzogen) - 
@@ -1666,6 +1674,7 @@
 
 ## Shell 
 
+- [tombin/apprentice-tmux](https://github.com/tombin/apprentice-tmux) - 
 - [seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
