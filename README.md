@@ -1395,6 +1395,7 @@
 
 ## PHP 
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [spatie/laravel-server-side-rendering-examples](https://github.com/spatie/laravel-server-side-rendering-examples) - Example app for https://github.com/spatie/laravel-server-side-rendering
@@ -1591,6 +1592,7 @@
 
 ## Rust 
 
+- [numToStr/lemmy-help](https://github.com/numToStr/lemmy-help) - Every one needs help, so lemmy-help you! A CLI to generate vim/nvim help doc from emmylua
 - [reujab/silver](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt with icons
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
@@ -1811,6 +1813,7 @@
 
 ## TypeScript 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -1938,6 +1941,7 @@
 
 ## Vim Script 
 
+- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 - [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
