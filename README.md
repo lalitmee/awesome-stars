@@ -375,7 +375,7 @@
 - [stevekrouse/WoofJS](https://github.com/stevekrouse/WoofJS) - Learnable JavaScript
 - [Anna-Assistant/Anna](https://github.com/Anna-Assistant/Anna) - Virtual Assistant on Google Chrome :elephant:
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
-- [sugarlabs/www-sugarlabs](https://github.com/sugarlabs/www-sugarlabs) - The Sugar Labs web site
+- [sugarlabs/www](https://github.com/sugarlabs/www) - The Sugar Labs web site
 - [anshuldawar/myStore](https://github.com/anshuldawar/myStore) - Angular Learning Project.
 
 ## Handlebars 
