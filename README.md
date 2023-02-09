@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
@@ -678,7 +679,7 @@
 
 ## Lua 
 
-- [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A NeoVIM plugin to show the currently selected node type from lsp and treesitter information
+- [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information
 - [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) - Paragraph support for neoscroll
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 📌 the no-nonsense session manager
 - [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) - 
@@ -772,7 +773,7 @@
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
 - [AbdelrahmanDwedar/awesome-nvim-colorschemes](https://github.com/AbdelrahmanDwedar/awesome-nvim-colorschemes) - A collection of the best NeoVim colorschemes with a one setupto set the colorscheme & style & even more!
-- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
+- [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) - NeoVim UI sweetness.
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
@@ -1823,6 +1824,7 @@
 
 ## TypeScript 
 
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -1953,6 +1955,7 @@
 
 ## Vim Script 
 
+- [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
