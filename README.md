@@ -67,6 +67,7 @@
 
 ## C 
 
+- [mate-desktop/caja](https://github.com/mate-desktop/caja) - Caja, the file manager for the MATE desktop
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -1064,7 +1065,7 @@
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written in lua!
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
