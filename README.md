@@ -252,6 +252,7 @@
 
 ## F# # 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
 
 ## Fennel 
@@ -412,6 +413,7 @@
 
 ## JavaScript 
 
+- [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
 - [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [cobcobs/duckduckgo](https://github.com/cobcobs/duckduckgo) - Soho vibes for DuckDuckGo
@@ -680,6 +682,8 @@
 
 ## Lua 
 
+- [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A autopair plugin designed to have all the fetures that a autopair plugin needs.
+- [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) - Quickly move between next and previous NeoVim buffer, tab, file, quickfix, diagnostic, etc.
 - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) - Integration for nvim-dap with telescope.nvim
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer enables you to seemlessly move through important project marks as quickly and efficiently as possible to make your workflow blazingly fast ™.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
@@ -1604,6 +1608,7 @@
 
 ## Rust 
 
+- [kitten/prosemd-lsp](https://github.com/kitten/prosemd-lsp) - An experimental proofreading and linting language server for markdown files ✍️
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [numToStr/lemmy-help](https://github.com/numToStr/lemmy-help) - Every one needs help, so lemmy-help you! A CLI to generate vim/nvim help doc from emmylua
@@ -1704,6 +1709,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [Brutuski/tmux-ticker](https://github.com/Brutuski/tmux-ticker) - A Tmux plugin to monitor various indexes and stock prices.
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
@@ -1969,7 +1975,6 @@
 - [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [smzm/hydrovim](https://github.com/smzm/hydrovim) - ➡️ Run python code inside Neovim
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How themes should be.
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
