@@ -67,6 +67,7 @@
 
 ## C 
 
+- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - Experimentl UI neovim framework for kitty
 - [mate-desktop/caja](https://github.com/mate-desktop/caja) - Caja, the file manager for the MATE desktop
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
@@ -1709,7 +1710,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [Brutuski/tmux-ticker](https://github.com/Brutuski/tmux-ticker) - A Tmux plugin to monitor various indexes and stock prices.
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Blazingly fast AI code generation, editing and completion plugin for Neovim
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI code generation plugin in Vim and Neovim
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
