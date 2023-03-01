@@ -701,7 +701,6 @@
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) - Neovim plugin to flash cursor when jumps or moves between windows.
 - [nyngwang/NeoClear.lua](https://github.com/nyngwang/NeoClear.lua) - save you from the "what the hell?" moment
 - [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) - Well... I will fix this line later
-- [nyngwang/cmp-codeium](https://github.com/nyngwang/cmp-codeium) - 
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) - Layout preserving buffer deletion.
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
