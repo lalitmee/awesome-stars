@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [nkbt/react-debounce-input](https://github.com/nkbt/react-debounce-input) - React component that renders Input with debounced onChange
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
@@ -434,7 +435,7 @@
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
-- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -961,7 +962,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
 - [braxtons12/blame_line.nvim](https://github.com/braxtons12/blame_line.nvim) - A simple and configurable git blame line annotation for Neovim 0.7+ using pure lua
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
-- [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) - A Neovim Telescope extension to open your browser bookmarks right from the editor!
+- [dhruvmanila/browser-bookmarks.nvim](https://github.com/dhruvmanila/browser-bookmarks.nvim) - A Neovim plugin to open your browser bookmarks right from the editor!
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - cobalt2 theme for neovim in Lua using colorbuddy
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) - neovim plugin for better language auto-detection, powered by tree-sitter
