@@ -190,7 +190,7 @@
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
-- [tek256/simple-dark](https://github.com/tek256/simple-dark) - a simple dark grayscale theme
+- [tek256/simple-dark](https://github.com/tek256/simple-dark) - a simple dark grayscale theme for many editors!
 - [mickeynp/smart-scan](https://github.com/mickeynp/smart-scan) - Jumps between other symbols found at point in Emacs
 - [emacs-lsp/lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) - 
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -633,7 +633,7 @@
 - [ahfarmer/calculator](https://github.com/ahfarmer/calculator) - Simple calculator built with React
 - [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -685,6 +685,7 @@
 
 ## Lua 
 
+- [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) - Neovim Lua plugin to improve register handling with delete, cut and yank mappings.
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
@@ -1122,7 +1123,7 @@
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-- [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A minimal Neovim bufferline
+- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A minimal Neovim bufferline
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) - fold go `if err != nil` and show other lines
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
@@ -1826,7 +1827,7 @@
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## Swift 
