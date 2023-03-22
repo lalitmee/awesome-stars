@@ -263,7 +263,7 @@
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
@@ -1123,7 +1123,7 @@
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A minimal Neovim bufferline
+- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) - fold go `if err != nil` and show other lines
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
