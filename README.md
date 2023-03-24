@@ -980,7 +980,7 @@
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
-- [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
+- [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency and support telescope.
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container
@@ -1614,6 +1614,7 @@
 
 ## Rust 
 
+- [jplatte/turbo.fish](https://github.com/jplatte/turbo.fish) - ::&lt;&gt; ⠀ https://turbo.fish/ ⠀ &lt;&gt;::
 - [casonadams/z-tab-bar](https://github.com/casonadams/z-tab-bar) - zellij tmux stlye tab bar plugin
 - [kitten/prosemd-lsp](https://github.com/kitten/prosemd-lsp) - An experimental proofreading and linting language server for markdown files ✍️
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
