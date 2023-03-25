@@ -270,6 +270,7 @@
 
 ## Go 
 
+- [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
@@ -1276,7 +1277,7 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
-- [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My development setup
+- [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My dev setup
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
