@@ -687,6 +687,7 @@
 
 ## Lua 
 
+- [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) - Neovim Lua plugin to improve register handling with delete, cut and yank mappings.
@@ -1870,7 +1871,7 @@
 - [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pedro757/emmet](https://github.com/pedro757/emmet) - Emmet language server for autocompletion in LSP compatible editors
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [numToStr/listrrr](https://github.com/numToStr/listrrr) - Issue and Project tracker build w/ GraphQl, Apollo & React 🔥. Wrapped with 🐋 Docker.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
