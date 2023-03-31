@@ -687,6 +687,7 @@
 
 ## Lua 
 
+- [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) - A neovim plugin for generating .gitignore files.
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
@@ -1021,7 +1022,7 @@
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - A simple usecase of floating window to help you focus.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux split resizing and navigation. Think about splits in terms of "up/down/left/right".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux/wezterm split resizing and navigation. Think about splits in terms of "up/down/left/right".
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) - 
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
