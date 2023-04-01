@@ -687,6 +687,7 @@
 
 ## Lua 
 
+- [chikko80/error-lens.nvim](https://github.com/chikko80/error-lens.nvim) - An enhanced visual diagnostic display for Neovim, inspired by the Error Lens extension for Visual Studio Code.
 - [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) - A neovim plugin for generating .gitignore files.
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
@@ -1265,7 +1266,7 @@
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
-- [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
+- [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
