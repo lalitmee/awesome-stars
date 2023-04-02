@@ -67,6 +67,7 @@
 
 ## C 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - Experimentl UI neovim framework for kitty
 - [mate-desktop/caja](https://github.com/mate-desktop/caja) - Caja, the file manager for the MATE desktop
@@ -687,6 +688,7 @@
 
 ## Lua 
 
+- [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
 - [chikko80/error-lens.nvim](https://github.com/chikko80/error-lens.nvim) - An enhanced visual diagnostic display for Neovim, inspired by the Error Lens extension for Visual Studio Code.
 - [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) - A neovim plugin for generating .gitignore files.
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
