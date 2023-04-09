@@ -751,7 +751,7 @@
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Declarative keymappings configuration using cascading trees
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
-- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than a dozen new text objects for Neovim.
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
 - [Mateiadrielrafael/scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim) - Create abbreviations with ease
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) - nvim-dap adapter for vscode-js-debug
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1768,7 +1768,7 @@
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [pkulev/zsh-rustup-completion](https://github.com/pkulev/zsh-rustup-completion) - Rustup completion plugin for oh-my-zsh framework
-- [sudosubin/zsh-github-cli](https://github.com/sudosubin/zsh-github-cli) - Zsh github cli completion plugin.
+- [sudosubin/zsh-github-cli](https://github.com/sudosubin/zsh-github-cli) - Zsh github cli completion plugin
 - [alexiszamanidis/zsh-git-fzf](https://github.com/alexiszamanidis/zsh-git-fzf) - An interactive ZSH plugin that wraps some git operations for simplicity and productivity. Also, it contains completions and combines the FZF tool to make the operations more convenient.
 - [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh (git, kubectl, docker, ...)
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
