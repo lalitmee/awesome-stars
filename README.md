@@ -1230,7 +1230,7 @@
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [tzachar/compe-tabnine](https://github.com/tzachar/compe-tabnine) - TabNine source for hrsh7th/nvim-compe
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
-- [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - A dark neovim colorscheme written in lua
+- [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [LoricAndre/fzterm.nvim](https://github.com/LoricAndre/fzterm.nvim) - Fuzzy finder plugin for neovim, written in lua
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -2073,7 +2073,7 @@
 - [wincent/ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [camspiers/animate.vim](https://github.com/camspiers/animate.vim) - A Vim Window Animation Library
-- [glepnir/spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
+- [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 - [benwainwright/fzf-project](https://github.com/benwainwright/fzf-project) - A vim plugin to make project switching easier using fzf.vim
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
