@@ -210,7 +210,7 @@
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [TheBB/spaceline](https://github.com/TheBB/spaceline) - Powerline theme from Spacemacs
 - [WJCFerguson/emacs-faff-theme](https://github.com/WJCFerguson/emacs-faff-theme) - Emacs Faff Theme - a light theme based on the Emacs default, extensively tweaked.
-- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4+
+- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #Emacs #theme #coding
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
@@ -730,7 +730,7 @@
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
 - [davidsierradz/cmp-conventionalcommits](https://github.com/davidsierradz/cmp-conventionalcommits) - (WIP) nvim-cmp source for autocompleting git commits with conventional commits types and lerna packages as scope
 - [JoosepAlviste/palenightfall.nvim](https://github.com/JoosepAlviste/palenightfall.nvim) - 🌑 Neovim theme inspired by material palenight.
-- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Allowing your to edit your command in the terminal just like any other buffers.
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffers.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
@@ -1246,7 +1246,6 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
-- [nvimdev/indent-guides.nvim](https://github.com/nvimdev/indent-guides.nvim) - 
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
