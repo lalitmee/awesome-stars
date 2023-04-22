@@ -850,7 +850,7 @@
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 - [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
-- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker/colorizer plugin.
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [David-Kunz/markid](https://github.com/David-Kunz/markid) - A Neovim extension to highlight same-name identifiers with the same color.
