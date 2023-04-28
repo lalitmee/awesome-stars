@@ -808,6 +808,7 @@
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.
 - [doums/oterm.nvim](https://github.com/doums/oterm.nvim) - A neovim plugin to open terminal quickly and nicely.
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
+- [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) - manage your vim session with telescope 🔭
@@ -1053,6 +1054,7 @@
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - killring-alike plugin for neovim and vim 8 with no default mappings
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) - Better digraphs plugin based on idea from Damian Conway
+- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) - Dim unused words in neovim
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) - Statusline + Telescope integration for viewing and interacting with GitHub notifications
 - [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
@@ -1471,7 +1473,7 @@
 - [andrewshadura/git-crecord](https://github.com/andrewshadura/git-crecord) - Git subcommand to interactively select changes to commit or stage
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
+- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
