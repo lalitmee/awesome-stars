@@ -35,7 +35,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
 - [ReScript](#rescript)
@@ -421,6 +420,7 @@
 
 ## JavaScript 
 
+- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh's dotfiles for his developer environment
 - [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [nkbt/react-debounce-input](https://github.com/nkbt/react-debounce-input) - React component that renders Input with debounced onChange
@@ -1223,7 +1223,7 @@
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of fzf fuzzy search for the neovim built in lsp
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [norcalli/nvim_utils](https://github.com/norcalli/nvim_utils) - 
 - [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) - https://clojuredocs.org examples and notes, instantly under your finger tips
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
@@ -1301,6 +1301,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 
 ## MoonScript 
 
@@ -1439,10 +1440,6 @@
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [gquittet/dotfiles](https://github.com/gquittet/dotfiles) - My personal dotfiles repository
 - [Farow/hexchat-scripts](https://github.com/Farow/hexchat-scripts) - Perl scripts for HexChat
-
-## PowerShell 
-
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 
 ## Python 
 
@@ -1716,7 +1713,6 @@
 
 ## Shell 
 
-- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh's dotfiles for his developer environment
 - [trevarj/tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - A tmux plugin that helps opening files in a Neovim pane
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
 - [tombin/apprentice-tmux](https://github.com/tombin/apprentice-tmux) - 
