@@ -57,7 +57,6 @@
 
 ## Astro 
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## Awk 
@@ -1496,7 +1495,7 @@
 - [Valloric/MatchTagAlways](https://github.com/Valloric/MatchTagAlways) - A Vim plugin that always highlights the enclosing html/xml tags
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap) - A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
-- [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx) - readmeee
+- [swyxio/sw-yx](https://github.com/swyxio/sw-yx) - readmeee
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -1861,6 +1860,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
