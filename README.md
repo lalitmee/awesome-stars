@@ -510,7 +510,6 @@
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [djadmin/medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
 - [dmo60/CoverflowAltTab](https://github.com/dmo60/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell and Cinnamon
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [klaudiosinani/hyperocean](https://github.com/klaudiosinani/hyperocean) - Deep oceanic blue Hyper theme
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [tuchk4/storybook-readme](https://github.com/tuchk4/storybook-readme) - React Storybook addon to render README files in github style
@@ -1918,6 +1917,7 @@
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
