@@ -633,8 +633,8 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Rhymond/product-compare-react](https://github.com/Rhymond/product-compare-react) - React Example - Product Compare Page
 - [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
-- [ahfarmer/calculator](https://github.com/ahfarmer/calculator) - Simple calculator built with React
-- [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
+- [greatbunny/calculator](https://github.com/greatbunny/calculator) - Simple calculator built with React
+- [greatbunny/emoji-search](https://github.com/greatbunny/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
@@ -1187,7 +1187,7 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [Pocco81/abbrev-man.nvim](https://github.com/Pocco81/abbrev-man.nvim) - 🍍 A NeoVim plugin for managing vim abbreviations.
