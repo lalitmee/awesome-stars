@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
