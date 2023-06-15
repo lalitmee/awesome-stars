@@ -331,7 +331,7 @@
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
