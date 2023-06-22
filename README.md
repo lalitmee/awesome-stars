@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
@@ -308,7 +309,6 @@
 - [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) - Command line pomodoro timer
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [anmitsu/goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 - [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
@@ -690,6 +690,8 @@
 
 ## Lua 
 
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) - Terminal Manager for Neovim
 - [chrisgrieser/nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 - [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
@@ -1173,6 +1175,7 @@
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) - 🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim, without any setup
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [murtaza-u/gruvqueen](https://github.com/murtaza-u/gruvqueen) - Port of famous gruvbox theme in lua(inspired by gruvbox-material)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
@@ -1291,6 +1294,10 @@
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
@@ -1668,7 +1675,6 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
-- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
