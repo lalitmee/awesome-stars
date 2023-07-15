@@ -1293,7 +1293,6 @@
 - [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My dev setup
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## MDX 
 
@@ -2236,6 +2235,7 @@
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [twitvim/twitvim](https://github.com/twitvim/twitvim) - Twitter client for Vim
 - [tmhedberg/matchit](https://github.com/tmhedberg/matchit) - extended % matching for HTML, LaTeX, and many other languages
 - [rhysd/open-pdf.vim](https://github.com/rhysd/open-pdf.vim) - Convert pdf file to plain text, cache it and open it quickly in vim using pdftotext.
