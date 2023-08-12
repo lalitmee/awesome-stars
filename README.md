@@ -275,6 +275,7 @@
 
 ## Go 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
@@ -1566,7 +1567,7 @@
 - [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [cmyr/anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [sugarlabs/browse-activity](https://github.com/sugarlabs/browse-activity) - Sugar activity to browse the internet; WebKit on GTK on Sugar Toolkit
 - [aviaryan/footballers-arena](https://github.com/aviaryan/footballers-arena) - Application to display footballers profiles with ratings and other cool stats
 - [leoli-dev/mini-projects-while-learning-python](https://github.com/leoli-dev/mini-projects-while-learning-python) - This is my source code for the Mini-projects for the course An Introduction to Interactive Programming in Python in Coursera.
@@ -2172,7 +2173,7 @@
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [aaronbieber/vim-quicktask](https://github.com/aaronbieber/vim-quicktask) - Quicktask is a lightweight Vim task management plugin.
-- [sickill/vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
+- [ku1ik/vim-monokai](https://github.com/ku1ik/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [maksimr/vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify) - vim plugin which formated javascript files by js-beautify
