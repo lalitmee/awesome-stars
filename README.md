@@ -1294,6 +1294,7 @@
 - [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My dev setup
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 
 ## MDX 
 
@@ -1832,7 +1833,6 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
-- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
