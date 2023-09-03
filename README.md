@@ -591,7 +591,7 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
-- [marvindanig/the-solar-system](https://github.com/marvindanig/the-solar-system) - :lollipop: Superbook: The Solar System by Marvin Danig. Read here →
+- [Bubblin-Superbooks/the-solar-system](https://github.com/Bubblin-Superbooks/the-solar-system) - :lollipop: Superbook: The Solar System by Marvin Danig. Read here →
 - [GirlScriptSummerOfCode/Kranti](https://github.com/GirlScriptSummerOfCode/Kranti) - 
 - [pankajladhar/GFontsSpace](https://github.com/pankajladhar/GFontsSpace) - Preview: https://pankajladhar.github.io/GFontsSpace
 - [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
@@ -1322,7 +1322,7 @@
 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [rose-pine/firefox](https://github.com/rose-pine/firefox) - Soho vibes for Firefox
 - [rose-pine/wallpapers](https://github.com/rose-pine/wallpapers) - Soho vibes for Wallpapers
@@ -1732,7 +1732,7 @@
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
-- [johannchangtw/fz.sh](https://github.com/johannchangtw/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [beauwilliams/awesome-fzf](https://github.com/beauwilliams/awesome-fzf) - A community repo of fzf scripts and awesome functions 😍
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
@@ -1873,7 +1873,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
