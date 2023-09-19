@@ -716,7 +716,7 @@
 - [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) - Paragraph support for neoscroll
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 📌 the no-nonsense session manager
 - [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) - 
-- [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [jcdickinson/wpm.nvim](https://github.com/jcdickinson/wpm.nvim) - A quick and dirty WPM calculator for your UI needs
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - ☕ Dead simple plugin to center the currently focused buffer to the middle of the screen.
 - [tsakirist/telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim) - Telescope extension that provides handy functionality about plugins installed via lazy.nvim
