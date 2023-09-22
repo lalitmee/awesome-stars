@@ -28,7 +28,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
@@ -311,6 +310,7 @@
 - [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) - Command line pomodoro timer
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [anmitsu/goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 - [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify) - For productivity addicts who enjoy coding while listening to Spotify, and cannot lose their focus switching to the app to control their music.
@@ -1097,7 +1097,7 @@
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://sr.ht/~p00f/cphelper.nvim instead
-- [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) - CompetiTest.nvim is a Neovim plugin to automate testcases management and checking for Competitive Programming
+- [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) - CompetiTest.nvim is a Neovim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
@@ -1298,10 +1298,6 @@
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
 - [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
-
-## MDX 
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
