@@ -227,7 +227,6 @@
 - [hayamiz/twittering-mode](https://github.com/hayamiz/twittering-mode) - An Emacs major mode for Twitter
 - [ankurdave/color-identifiers-mode](https://github.com/ankurdave/color-identifiers-mode) - Emacs minor mode to highlight each source code identifier uniquely based on its name
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
-- [eastwood/config](https://github.com/eastwood/config) - Bunch of scripts that keep me productive
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [AdamNiederer/ng2-mode](https://github.com/AdamNiederer/ng2-mode) - Angular Support for Emacs
 - [alphapapa/org-sticky-header](https://github.com/alphapapa/org-sticky-header) - Show off-screen Org heading at top of window
@@ -1293,6 +1292,7 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
+- [eastwood/config](https://github.com/eastwood/config) - Bunch of scripts that keep me productive
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My dev setup
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
@@ -1397,6 +1397,7 @@
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme](https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme) - 
 - [vjpr/monaco-bold](https://github.com/vjpr/monaco-bold) - The Monaco font with a bold variant
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -2236,7 +2237,6 @@
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [twitvim/twitvim](https://github.com/twitvim/twitvim) - Twitter client for Vim
 - [tmhedberg/matchit](https://github.com/tmhedberg/matchit) - extended % matching for HTML, LaTeX, and many other languages
 - [rhysd/open-pdf.vim](https://github.com/rhysd/open-pdf.vim) - Convert pdf file to plain text, cache it and open it quickly in vim using pdftotext.
