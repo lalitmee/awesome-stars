@@ -633,8 +633,8 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Rhymond/product-compare-react](https://github.com/Rhymond/product-compare-react) - React Example - Product Compare Page
 - [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
-- [direbunny/calculator](https://github.com/direbunny/calculator) - Simple calculator built with React
-- [direbunny/emoji-search](https://github.com/direbunny/emoji-search) - Simple React app for searching emoji
+- [andrewagain/calculator](https://github.com/andrewagain/calculator) - Simple calculator built with React
+- [andrewagain/emoji-search](https://github.com/andrewagain/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
