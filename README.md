@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -174,6 +175,10 @@
 
 - [sgentle/caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Caniuse command line tool
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
+
+## Crystal 
+
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 
 ## D 
 
@@ -1110,7 +1115,7 @@
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
-- [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - The core of ido-nvim
+- [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
 - [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) - Yet another light-weight rooter written in Lua
@@ -1787,7 +1792,6 @@
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
-- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
