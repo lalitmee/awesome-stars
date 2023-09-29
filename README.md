@@ -641,7 +641,7 @@
 - [andrewagain/calculator](https://github.com/andrewagain/calculator) - Simple calculator built with React
 - [andrewagain/emoji-search](https://github.com/andrewagain/emoji-search) - Simple React app for searching emoji
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
