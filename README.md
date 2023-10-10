@@ -24,6 +24,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -406,6 +407,10 @@
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [mbrubeck/compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
+
+## Janet 
+
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
 ## Java 
 
@@ -895,7 +900,6 @@
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
 - [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints with keymappings for nvim-dap
 - [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) - Neovim plugin to detect and view battery information
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [samodostal/image.nvim](https://github.com/samodostal/image.nvim) - 🖼️ Image Viewer as ASCII Art for Neovim written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -1413,7 +1417,7 @@
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [freeCodeCamp/guide](https://github.com/freeCodeCamp/guide) - A collection of easy-to-understand guides to programming tools
 - [iiitv/ShareIt](https://github.com/iiitv/ShareIt) - Something worth sharing? Go open an issue..
-- [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [webcompat/web-bugs](https://github.com/webcompat/web-bugs) - A place to report bugs on websites.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
