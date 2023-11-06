@@ -1046,7 +1046,7 @@
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua.
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Personal neovim setup with 180+ plugins.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage, colorscheme switcher for Neovim
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji
@@ -1901,7 +1901,7 @@
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
 - [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim
-- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
+- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
