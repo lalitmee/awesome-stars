@@ -480,6 +480,7 @@
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [suchipi/prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -1903,7 +1904,6 @@
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [neoclide/coc-smartf](https://github.com/neoclide/coc-smartf) - Make jump to character easier.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
