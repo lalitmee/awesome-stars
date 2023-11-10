@@ -628,7 +628,6 @@
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 - [harmon25/node-usb-barcode-scanner](https://github.com/harmon25/node-usb-barcode-scanner) - Package to help work with USB HID based barcode scanners in nodejs
-- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [rahatarmanahmed/electron-packager-dummy-wine](https://github.com/rahatarmanahmed/electron-packager-dummy-wine) - Install this to add a dummy wine executable to your path
 - [babel/babel-loader](https://github.com/babel/babel-loader) - 📦 Babel loader for webpack
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
