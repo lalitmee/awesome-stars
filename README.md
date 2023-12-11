@@ -431,6 +431,7 @@
 
 ## JavaScript 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [nkbt/react-debounce-input](https://github.com/nkbt/react-debounce-input) - React component that renders Input with debounced onChange
