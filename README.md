@@ -661,7 +661,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [aashutoshrathi/Insta-Downloader-Extension](https://github.com/aashutoshrathi/Insta-Downloader-Extension) - A browser extension that injects download buttons ⬇️ for media on Instagram Web
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
@@ -698,6 +698,7 @@
 
 ## Lua 
 
+- [SinaBYR/analogue.nvim](https://github.com/SinaBYR/analogue.nvim) - An analogue clock for neovim environment
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
@@ -1543,7 +1544,7 @@
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [ugroot/GROOT](https://github.com/ugroot/GROOT) - GROOT: Welcome to my source code, I'm your personal assistant
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's AI SQL Server connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
@@ -1818,7 +1819,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
