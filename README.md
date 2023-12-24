@@ -698,6 +698,7 @@
 
 ## Lua 
 
+- [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) - A Neovim plugin powered by Google Gemini.
 - [SinaBYR/analogue.nvim](https://github.com/SinaBYR/analogue.nvim) - An analogue clock for neovim environment
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
@@ -773,7 +774,7 @@
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Declarative keymappings configuration using cascading trees
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
-- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [Mateiadrielrafael/scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim) - Create abbreviations with ease
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) - nvim-dap adapter for vscode-js-debug
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
