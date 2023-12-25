@@ -661,7 +661,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [aashutoshrathi/Insta-Downloader-Extension](https://github.com/aashutoshrathi/Insta-Downloader-Extension) - A browser extension that injects download buttons ⬇️ for media on Instagram Web
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
@@ -1820,7 +1820,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
@@ -1896,7 +1896,7 @@
 - [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) - Prototyping Tools for Neovim
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pedro757/emmet](https://github.com/pedro757/emmet) - Emmet language server for autocompletion in LSP compatible editors
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [numToStr/listrrr](https://github.com/numToStr/listrrr) - Issue and Project tracker build w/ GraphQl, Apollo & React 🔥. Wrapped with 🐋 Docker.
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
