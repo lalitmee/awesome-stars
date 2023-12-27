@@ -469,7 +469,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [aca/emmet-ls](https://github.com/aca/emmet-ls) - Emmet support based on LSP.
-- [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - Gnome Shell extension, a highly customizable replacement for the Alt-Tab window and app switchers.
+- [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher) - A highly customizable replacement for Gnome Shell's Alt-Tab window and app switchers.
 - [mhyfritz/hyper-tokyo-night](https://github.com/mhyfritz/hyper-tokyo-night) - Clean, dark Hyper theme based on the Tokyo Night VS Code theme
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -935,7 +935,7 @@
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
 - [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
-- [heygarrett/.config](https://github.com/heygarrett/.config) - My configuration files
+- [heygarrett/.config](https://github.com/heygarrett/.config) - mirror of repo on Codeberg
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
