@@ -129,6 +129,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -415,7 +416,6 @@
 ## Java 
 
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [benjiman/java-html-dsl](https://github.com/benjiman/java-html-dsl) - DSL for writing HTML in Java
@@ -635,7 +635,6 @@
 - [notwaldorf/emoji-translate](https://github.com/notwaldorf/emoji-translate) - :books: Translate text to ✨emoji ✨!
 - [babel/babelify](https://github.com/babel/babelify) - Browserify transform for Babel
 - [DenysVuika/electron-react](https://github.com/DenysVuika/electron-react) - Project template for Electron with React support.
-- [christiannwamba/scotch-player](https://github.com/christiannwamba/scotch-player) - Demo for a Scotch Article
 - [BuildingXwithJS/building-electron-apps-with-js](https://github.com/BuildingXwithJS/building-electron-apps-with-js) - Materials and code for free course on building Electron app with javascript
 - [electron-userland/electron-installer-debian](https://github.com/electron-userland/electron-installer-debian) - Create a Debian package for your Electron app.
 - [Raathigesh/dazzle](https://github.com/Raathigesh/dazzle) - :rocket: Dashboards made easy in React JS.
