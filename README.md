@@ -697,6 +697,7 @@
 
 ## Lua 
 
+- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) - A Neovim plugin powered by Google Gemini.
 - [SinaBYR/analogue.nvim](https://github.com/SinaBYR/analogue.nvim) - An analogue clock for neovim environment
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
