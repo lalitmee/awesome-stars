@@ -309,7 +309,7 @@
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -1010,7 +1010,7 @@
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency and support telescope.
-- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
