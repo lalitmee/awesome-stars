@@ -1869,6 +1869,7 @@
 
 ## TypeScript 
 
+- [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [wtchnm/Vitamin](https://github.com/wtchnm/Vitamin) - Opinionated Vite starter template.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
