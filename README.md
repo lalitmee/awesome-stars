@@ -673,7 +673,7 @@
 - [reactjs/react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
+- [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [maxwihlborg/youtube-tutorials](https://github.com/maxwihlborg/youtube-tutorials) - A collection of code I write for my youtube channel.
 
 ## Jupyter Notebook 
@@ -690,6 +690,7 @@
 
 ## Lua 
 
+- [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm's terminals in NeoVim
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
