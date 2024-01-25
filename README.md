@@ -312,7 +312,7 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [carlmjohnson/pomodoro](https://github.com/carlmjohnson/pomodoro) - Command line pomodoro timer
+- [earthboundkid/pomodoro](https://github.com/earthboundkid/pomodoro) - Command line pomodoro timer
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
