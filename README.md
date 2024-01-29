@@ -597,7 +597,7 @@
 - [Bubblin-Superbooks/the-solar-system](https://github.com/Bubblin-Superbooks/the-solar-system) - :lollipop: Superbook: The Solar System by Marvin Danig. Read here →
 - [GirlScriptSummerOfCode/Kranti](https://github.com/GirlScriptSummerOfCode/Kranti) - 
 - [pankajladhar/GFontsSpace](https://github.com/pankajladhar/GFontsSpace) - Preview: https://pankajladhar.github.io/GFontsSpace
-- [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
+- [ovidiuch/flatris](https://github.com/ovidiuch/flatris) - Fast-paced two-player web game
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [caseywebdev/react-list](https://github.com/caseywebdev/react-list) - :scroll: A versatile infinite scroll React component.
 - [xiaolin/react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support  🖼
