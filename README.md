@@ -693,6 +693,7 @@
 
 ## Lua 
 
+- [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) - Neovim plugin quickly look up one plugin's README.md
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
