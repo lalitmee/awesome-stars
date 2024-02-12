@@ -693,6 +693,7 @@
 
 ## Lua 
 
+- [dhananjaylatkar/notes.nvim](https://github.com/dhananjaylatkar/notes.nvim) - Simple Note Taking Plugin
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) - Neovim plugin quickly look up one plugin's README.md
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
@@ -1788,7 +1789,7 @@
 - [sayanarijit/pomo](https://github.com/sayanarijit/pomo) - Probably the simplest pomodoro timer CLI for Linux
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
-- [yashdotceo/pretty-kitty](https://github.com/yashdotceo/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
+- [txtyash/pretty-kitty](https://github.com/txtyash/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
@@ -1915,7 +1916,7 @@
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
