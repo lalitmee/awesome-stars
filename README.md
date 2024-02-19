@@ -86,7 +86,7 @@
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
-- [MDeiml/tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown) - A markdown grammar for tree-sitter
+- [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - A markdown grammar for tree-sitter
 - [Rafostar/clapper](https://github.com/Rafostar/clapper) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 - [martinsione/dotfiles](https://github.com/martinsione/dotfiles) - Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize Unix-based systems.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -862,7 +862,7 @@
 - [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
-- [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
+- [Dich0tomy/nvim-headband](https://github.com/Dich0tomy/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
