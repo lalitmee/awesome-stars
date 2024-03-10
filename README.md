@@ -106,7 +106,7 @@
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [justin-lathrop/c](https://github.com/justin-lathrop/c) - C Programming Projects
 - [laumann/C](https://github.com/laumann/C) - My own library of C programs, created whilst learning C
-- [uthcode/learntosolveit](https://github.com/uthcode/learntosolveit) - Learn How to Solve a problem using your favorite programming language.
+- [uthcode/learntosolveit](https://github.com/uthcode/learntosolveit) - The C Programming Language Companion
 
 ## C# # 
 
@@ -1631,7 +1631,6 @@
 - [AndrewRadev/dsf.vim](https://github.com/AndrewRadev/dsf.vim) - Delete surrounding function call
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
