@@ -696,7 +696,7 @@
 
 ## Lua 
 
-- [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Plugin for Neovim which tracks edit locations
+- [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Jump to the last edit in Neovim
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - Opens global note in a float window
 - [dhananjaylatkar/notes.nvim](https://github.com/dhananjaylatkar/notes.nvim) - Simple Note Taking Plugin
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) - Neovim plugin quickly look up one plugin's README.md
