@@ -715,7 +715,7 @@
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - A fzf fuzzy finder that updates on every keystroke of user query and selection.
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - A fzf fuzzy finder that updates on every user keystroke.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) - Import modules with ease
 - [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs) - Neovim DevDocs integration
