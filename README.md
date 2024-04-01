@@ -696,6 +696,10 @@
 
 ## Lua 
 
+- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
+- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
+- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
