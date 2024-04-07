@@ -92,7 +92,7 @@
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
-- [Rafostar/clapper](https://github.com/Rafostar/clapper) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
+- [Rafostar/clapper](https://github.com/Rafostar/clapper) - A modern media player designed for simplicity and ease of use.
 - [martinsione/dotfiles](https://github.com/martinsione/dotfiles) - Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize Unix-based systems.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
