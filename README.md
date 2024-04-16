@@ -717,7 +717,7 @@
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm's terminals in NeoVim
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
-- [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) - A Neovim plugin powered by Google Gemini.
+- [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) - A Neovim plugin powered by AI.
 - [SinaBYR/analogue.nvim](https://github.com/SinaBYR/analogue.nvim) - An analogue clock for neovim environment
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
