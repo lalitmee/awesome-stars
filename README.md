@@ -387,7 +387,6 @@
 - [code-sketch/memory-game](https://github.com/code-sketch/memory-game) - Memory card game in VanillaJS
 - [buckyroberts/Viberr](https://github.com/buckyroberts/Viberr) - Viberr is an application that let's you upload, store, and play all of your music from the cloud.
 - [wentin/typedetail](https://github.com/wentin/typedetail) - Annotating beautiful details of web fonts
-- [yushulx/nodejs-barcode-for-win-linux-mac](https://github.com/yushulx/nodejs-barcode-for-win-linux-mac) - 
 - [opencode18/OpenNews](https://github.com/opencode18/OpenNews) - OpenNews
 - [zulip/zulip.github.io](https://github.com/zulip/zulip.github.io) - Legacy zulip.org website.  No longer used.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
