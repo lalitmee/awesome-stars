@@ -1917,7 +1917,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
