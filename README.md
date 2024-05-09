@@ -2114,7 +2114,7 @@
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
 - [skanehira/gh.vim](https://github.com/skanehira/gh.vim) - Vim/Neovim plugin for GitHub
 - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
 - [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
@@ -2177,7 +2177,7 @@
 - [christoomey/vim-sort-motion](https://github.com/christoomey/vim-sort-motion) - Vim mapping for sorting a range of text
 - [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [tyru/open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
-- [lambdalisue/nerdfont.vim](https://github.com/lambdalisue/nerdfont.vim) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
+- [lambdalisue/vim-nerdfont](https://github.com/lambdalisue/vim-nerdfont) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
 - [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
