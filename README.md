@@ -1516,6 +1516,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lalitmee/fonts](https://github.com/lalitmee/fonts) - A collection of fonts for coding and everything.
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [rstacruz/sparkup](https://github.com/rstacruz/sparkup) - A parser for a condensed HTML format
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
@@ -1819,7 +1820,6 @@
 - [cstrap/monaco-font](https://github.com/cstrap/monaco-font) - Install `Monaco Font` or other fonts on Linux distro (Ubuntu, CentOS...)
 - [noscript/tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - More scroll, less hassle
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
-- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
 - [whame/tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable
