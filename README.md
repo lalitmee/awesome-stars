@@ -695,6 +695,9 @@
 
 ## Lua 
 
+- [karshPrime/tmux-compile.nvim](https://github.com/karshPrime/tmux-compile.nvim) - Neovim plugin to compile and run programs in TMUX panes/window
+- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's :substitute using ripgrep.
+- [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboard.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
@@ -1432,7 +1435,6 @@
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme](https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme) - 
 - [vjpr/monaco-bold](https://github.com/vjpr/monaco-bold) - The Monaco font with a bold variant
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -1664,6 +1666,7 @@
 
 ## Rust 
 
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1763,6 +1766,7 @@
 
 ## Shell 
 
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A plugin for tmux that allows users to select actions from a customizable popup menu 🧰
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh's dotfiles for his developer environment
@@ -2289,6 +2293,7 @@
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [twitvim/twitvim](https://github.com/twitvim/twitvim) - Twitter client for Vim
 - [tmhedberg/matchit](https://github.com/tmhedberg/matchit) - extended % matching for HTML, LaTeX, and many other languages
 - [rhysd/open-pdf.vim](https://github.com/rhysd/open-pdf.vim) - Convert pdf file to plain text, cache it and open it quickly in vim using pdftotext.
