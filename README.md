@@ -76,7 +76,6 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [mate-desktop/caja](https://github.com/mate-desktop/caja) - Caja, the file manager for the MATE desktop
-- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
@@ -438,6 +437,7 @@
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [nkbt/react-debounce-input](https://github.com/nkbt/react-debounce-input) - React component that renders Input with debounced onChange
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
+- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [cobcobs/duckduckgo](https://github.com/cobcobs/duckduckgo) - Soho vibes for DuckDuckGo
@@ -696,7 +696,7 @@
 ## Lua 
 
 - [karshPrime/tmux-compile.nvim](https://github.com/karshPrime/tmux-compile.nvim) - Neovim plugin to compile and run programs in TMUX panes/window
-- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's :substitute using ripgrep.
+- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Perform search and replace operations in the current buffer using a modern user interface and contemporary regex syntax.
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboard.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs
