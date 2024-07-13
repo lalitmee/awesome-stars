@@ -923,7 +923,7 @@
 - [asbjornhaland/telescope-send-to-harpoon.nvim](https://github.com/asbjornhaland/telescope-send-to-harpoon.nvim) - Custom Telescope action to send selections to Harpoon.
 - [cameronviner/carbon-now-sh.nvim](https://github.com/cameronviner/carbon-now-sh.nvim) - A neovim plugin that enables you to open your selected text in carbon.now.sh
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim
-- [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
+- [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) - Some color utils for neovim
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) - Simple regex helper
 - [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) - A minimalist Neovim plugin that auto pairs & closes brackets
@@ -1153,7 +1153,7 @@
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
-- [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - A highly configurable neovim startup screen
+- [max397574/startup.nvim](https://github.com/max397574/startup.nvim) - A highly configurable neovim startup screen
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
 - [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) - Yet another light-weight rooter written in Lua
 - [ray-x/sad.nvim](https://github.com/ray-x/sad.nvim) - Space Age seD in Neovim. A project-wide find and replace plugin for Neovim.
@@ -1244,7 +1244,7 @@
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - An extension for telescope.nvim that allows you to switch between headings
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
