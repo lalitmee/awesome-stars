@@ -698,6 +698,9 @@
 
 ## Lua 
 
+- [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
+- [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
+- [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) - A collection of improvements for the quickfix buffer
 - [karshPrime/tmux-compile.nvim](https://github.com/karshPrime/tmux-compile.nvim) - Neovim plugin to compile and run programs in TMUX panes/window
 - [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Perform search and replace operations in the current buffer using a modern user interface and contemporary regex syntax.
