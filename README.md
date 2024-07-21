@@ -698,6 +698,7 @@
 
 ## Lua 
 
+- [karshPrime/only-tmux.nvim](https://github.com/karshPrime/only-tmux.nvim) - have a keybind in nvim for :only that also works for tmux panes
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) - Bookmark your files, separated by project, and quickly navigate through them.
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
