@@ -699,6 +699,10 @@
 
 ## Lua 
 
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
+- [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
+- [christopher-francisco/tmux-status.nvim](https://github.com/christopher-francisco/tmux-status.nvim) - Get tmux status components for your statusline
 - [karshPrime/only-tmux.nvim](https://github.com/karshPrime/only-tmux.nvim) - have a keybind in nvim for :only that also works for tmux panes
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) - Bookmark your files, separated by project, and quickly navigate through them.
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
@@ -1915,6 +1919,7 @@
 
 ## TypeScript 
 
+- [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
