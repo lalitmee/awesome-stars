@@ -338,7 +338,7 @@
 - [promiseofcake/merged-prs](https://github.com/promiseofcake/merged-prs) - Tool to determine GitHub Pull Requests merged between two given commit hashes, branches, or tags.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [vim-volt/volt](https://github.com/vim-volt/volt) - A meta-level vim package manager
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
