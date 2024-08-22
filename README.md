@@ -627,7 +627,7 @@
 - [cerebro-iiitv/cerebro-web](https://github.com/cerebro-iiitv/cerebro-web) - Website for Cerebro
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [aviaryan/chattt](https://github.com/aviaryan/chattt) - ❯❯❯ Chat without leaving your terminal
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [patleeman/VSNotes](https://github.com/patleeman/VSNotes) - Simple VS Code extension for plain text note taking.
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
