@@ -699,6 +699,8 @@
 
 ## Lua 
 
+- [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
+- [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [askfiy/http-client.nvim](https://github.com/askfiy/http-client.nvim) - http-client.nvim is a Neovim plugin designed to help users quickly and easily send HTTP requests directly from within Neovim.  The plugin supports multiple request formats and file uploads, offering d
@@ -1967,7 +1969,7 @@
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
 - [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for Vim/NeoVim
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
