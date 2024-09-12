@@ -700,6 +700,7 @@
 
 ## Lua 
 
+- [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) - A Drawer plugin for Neovim. AKA "persistent split" / "persistent window".
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) - Prompt LLMs to write neovim commands
 - [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with ]r/[r
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
