@@ -700,6 +700,8 @@
 
 ## Lua 
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [debugloop/layers.nvim](https://github.com/debugloop/layers.nvim) - craft temporary keymap overlays and layered modes with ease :flags:
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) - A Drawer plugin for Neovim. AKA "persistent split" / "persistent window".
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) - Prompt LLMs to write neovim commands
 - [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with ]r/[r
