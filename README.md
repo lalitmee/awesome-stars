@@ -702,6 +702,10 @@
 
 ## Lua 
 
+- [atlj/Pixie.nvim](https://github.com/atlj/Pixie.nvim) - This NeoVim plugin generates ✨fancy✨ images from your code
+- [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
+- [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
+- [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [debugloop/layers.nvim](https://github.com/debugloop/layers.nvim) - craft temporary keymap overlays and layered modes with ease :flags:
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) - A Drawer plugin for Neovim. AKA "persistent split" / "persistent window".
