@@ -702,6 +702,7 @@
 
 ## Lua 
 
+- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers.
 - [jaimecgomezz/here.term](https://github.com/jaimecgomezz/here.term) - Once you've gone through all terminal solutions, you'll end up here
 - [atlj/Pixie.nvim](https://github.com/atlj/Pixie.nvim) - This NeoVim plugin generates ✨fancy✨ images from your code
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
