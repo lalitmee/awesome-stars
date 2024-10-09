@@ -702,6 +702,8 @@
 
 ## Lua 
 
+- [daic0r/hashtags.nvim](https://github.com/daic0r/hashtags.nvim) - Hashtag navigation plugin for Neovim
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim
 - [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers.
 - [jaimecgomezz/here.term](https://github.com/jaimecgomezz/here.term) - Once you've gone through all terminal solutions, you'll end up here
