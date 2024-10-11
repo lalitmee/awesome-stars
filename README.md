@@ -702,6 +702,9 @@
 
 ## Lua 
 
+- [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique in Neovim with built-in session tracking and break reminders.
+- [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - nvim theme blending lava red and ice blue for a vibrant coding experience ✨
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [daic0r/hashtags.nvim](https://github.com/daic0r/hashtags.nvim) - Hashtag navigation plugin for Neovim
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim
