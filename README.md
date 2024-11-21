@@ -206,7 +206,7 @@
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [tek256/simple-dark](https://github.com/tek256/simple-dark) - a simple dark grayscale theme for many editors!
 - [mickeynp/smart-scan](https://github.com/mickeynp/smart-scan) - Quickly move between identical symbols at point
-- [emacs-lsp/lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) - 
+- [emacs-lsp/lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) - lsp-mode ❤️ ivy
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [emacs-helm/helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
@@ -399,6 +399,7 @@
 - [Anna-Assistant/Anna](https://github.com/Anna-Assistant/Anna) - Virtual Assistant on Google Chrome :elephant:
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 - [sugarlabs/www](https://github.com/sugarlabs/www) - The Sugar Labs web site
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anshuldawar/myStore](https://github.com/anshuldawar/myStore) - Angular Learning Project.
 
 ## Handlebars 
@@ -1049,7 +1050,7 @@
 - [Sewdohe/Nvim-Adapt](https://github.com/Sewdohe/Nvim-Adapt) - Adapts your Neovim background to your system's light/dark mode prefrence.
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
-- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage temporary buffers
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) - A plugin that adds wiki and diary extension to orgmode filetype
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -1490,7 +1491,6 @@
 - [vicky002/1000_Projects](https://github.com/vicky002/1000_Projects) - :sunglasses: Mega List of practical projects that one can solve in any programming language!
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -1989,7 +1989,7 @@
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
 - [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for Vim/NeoVim
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for Vim/Neovim
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
