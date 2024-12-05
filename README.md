@@ -1036,7 +1036,7 @@
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
-- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin for make golang development easiest
+- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin that makes golang development easier
 - [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim) - A quick neovim setup.
 - [VonHeikemen/little-wonder](https://github.com/VonHeikemen/little-wonder) - A collection of extensible color schemes with minimal amount of highlighting for Neovim.
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
@@ -1412,7 +1412,7 @@
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [iamdevnitesh/nord-wallpapers](https://github.com/iamdevnitesh/nord-wallpapers) - A collection of Nord theme based wallpapers
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
-- [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - 🌟 My personal "awesome" list of Go code, tools, books, and learning resources. I'm very picky about what makes it on. Want to learn Go? Start here.
+- [rwxrob/awesome-go](https://github.com/rwxrob/awesome-go) - Go stuff that inspires awe
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
@@ -1641,7 +1641,7 @@
 - [metacoin/flo-python-sdk](https://github.com/metacoin/flo-python-sdk) - FLO python SDK
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with an emphasis on reliability, correctness, and performance at scale.
 - [cmyr/anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [sugarlabs/browse-activity](https://github.com/sugarlabs/browse-activity) - Sugar activity to browse the internet; WebKit on GTK on Sugar Toolkit
