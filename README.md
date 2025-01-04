@@ -21,6 +21,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fennel](#fennel)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -282,6 +283,10 @@
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -704,6 +709,7 @@
 
 ## Lua 
 
+- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - 
 - [KingMichaelPark/age.nvim](https://github.com/KingMichaelPark/age.nvim) - A simply utility for loading encrypted secrets from an age encrypted file.
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
@@ -712,7 +718,7 @@
 - [sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim) - A minimal neovim statusline
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
 - [Dan7h3x/neaterm.nvim](https://github.com/Dan7h3x/neaterm.nvim) - A little (smart maybe) terminal plugin for neovim.
-- [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for fast navigation around the abstract syntax tree
+- [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
 - [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique in Neovim with built-in session tracking and break reminders.
 - [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - nvim theme blending lava red and ice blue for a vibrant coding experience ✨
@@ -1381,7 +1387,6 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [jackfranklin/dotfiles](https://github.com/jackfranklin/dotfiles) - My dotfiles for my dev environment, compromising of tmux, vim, zsh and git.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [dkarter/dotfiles](https://github.com/dkarter/dotfiles) - ✨ My dev setup
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
 - [alexlafroscia/dotfiles](https://github.com/alexlafroscia/dotfiles) - My Neovim, ZSH, Tmux and dev tools setup, with installation scipts
@@ -1652,7 +1657,7 @@
 - [metacoin/flo-python-sdk](https://github.com/metacoin/flo-python-sdk) - FLO python SDK
 - [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API framework for Python developers, with a focus on reliability & performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [cmyr/anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [sugarlabs/browse-activity](https://github.com/sugarlabs/browse-activity) - Sugar activity to browse the internet; WebKit on GTK on Sugar Toolkit
